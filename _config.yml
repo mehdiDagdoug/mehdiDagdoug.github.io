@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+d# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Mehdi Dagdoug"
 title_separator          : "-"
 name                     : &name "Mehdi Dagdoug"
-description              : &description "personal description"
+description              : &description "PhD Student in statistics"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "mehdiDagdoug/mehdiDagdoug.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -75,7 +75,7 @@ analytics:
 author:
   name             : "Mehdi Dagdoug"
   avatar           : "https://mehdidagdoug.github.io/files/compressed.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Student in statistics."
   location         : "Besançon, France"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?pli=1&authuser=1&user=LjZ0V7UAAAAJ"
@@ -95,7 +95,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/mehdidagdoug/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
