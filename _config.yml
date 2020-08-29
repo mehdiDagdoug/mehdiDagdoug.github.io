@@ -180,10 +180,9 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-
+search: true
 # Defaults
 defaults:
-  search: true
   # _posts
   - scope:
       path: ""
