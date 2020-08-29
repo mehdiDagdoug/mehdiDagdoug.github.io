@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## A short bio
 
 Since 2019, I am a PhD student in statistics at the Université de Bourgogne Franche-Comté, working under the supervision of the professors [Camelia Goga](http://goga.perso.math.cnrs.fr) from the Université de Bourgogne Franche-Comté and [David Haziza](http://www.davidhaziza.com) from the University of Ottawa. 
 
