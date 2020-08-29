@@ -18,7 +18,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -75,12 +75,12 @@ analytics:
 author:
   name             : "Mehdi Dagdoug"
   avatar           : "https://mehdidagdoug.github.io/files/compressed.jpg"
-  bio              : "PhD Student in statistics."
+  bio              : "PhD Student in statistics"
   location         : "Besançon, France"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?pli=1&authuser=1&user=LjZ0V7UAAAAJ"
   email            : "mohamed_mehdi.dagdoug@univ-fcomte.fr"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Mehdi_Dagdoug2"
   uri              :
   bitbucket        :
   codepen          :
