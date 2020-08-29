@@ -10,7 +10,8 @@ redirect_from:
 
 ## Short bio
 
-Since 2019, I am a PhD student in statistics at the Université de Bourgogne Franche-Comté, working under the supervision of the professors *Camelia Goga* and *David Haziza*. 
+Since 2019, I am a PhD student in statistics at the Université de Bourgogne Franche-Comté, working under the supervision of the professors [Camelia Goga](http://goga.perso.math.cnrs.fr)
+ and *David Haziza*. 
 
 My research interests include the theory of survey sampling, missing data, statistical learning and matrix completion. More precisely, I am working on solving estimation problems in survey sampling, with possible nonresponse, using matrix completion algorithms and statistical learning predictive models. 
 
