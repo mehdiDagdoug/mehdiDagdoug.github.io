@@ -10,4 +10,3 @@ citation: 'Dagdoug, Mehdi, Camelia Goga, and David Haziza. "Model-assisted estim
 ---
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Dagdoug, Mehdi, Camelia Goga, and David Haziza. "Model-assisted estimation through random forests in finite population sampling." arXiv preprint arXiv:2002.09736 (2020).
