@@ -4,6 +4,7 @@ title: "Conferences"
 permalink: /talks/
 author_profile: true
 ---
+
 ### Invited conferences
 1. 13th International Conference of the ERCIM WG on Computational and Methodological Statistics, December 2020, Model-asssisted estimation through random forests in finite population sampling. 
 2. Statistics 2021 Canada, 16 juillet 2021, Model-assisted estimation through random forests in finite population sampling. 
@@ -19,6 +20,8 @@ author_profile: true
 6. 6ème Journée « probabilités et statistiques Besançon-Dijon », 5 juillet 2021, High-dimensional asymptotics for model-assisted estimation. 
 7. Conference in honor of Fred Smith and Chris Skinner, July 2021, Model-assisted estimation through random forests in finite population sampling. 
 8. 63rd ISI World Statistics Congress, July 2021, Convergence rates of model-assisted estimators in high-dimensional settings. 
-9. 
+9. Statistics 2021 Canada, 16 juillet 2021, Model-assisted estimation through random forests in finite population sampling. 
+10. 11e Colloque International Francophone sur les Sondages, October 2021, Model-assisted estimation through random forests in finite population sampling, presentation with Camelia Goga. 
+11. 11e Colloque International Francophone sur les Sondages, October 2021, Random forests imputation in surveys. 
 
 
