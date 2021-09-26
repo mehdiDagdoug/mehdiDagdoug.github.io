@@ -176,7 +176,7 @@ collections:
   portfolio:
     output: false
     permalink: /:collection/:path/
-  talks:
+  Conferences:
     output: true
     permalink: /:collection/:path/
 
