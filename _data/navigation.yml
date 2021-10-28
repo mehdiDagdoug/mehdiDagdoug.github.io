@@ -9,11 +9,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Résumé"
+  - title: "Responsabilities"
     url: /cv/
     
-  - title: "Responsabilities"
-    url: /year-archive/
+#- title: "Responsabilities"
+#    url: /year-archive/
     
  # - title: "Guide"
  #   url: /markdown/
