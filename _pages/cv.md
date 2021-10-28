@@ -4,7 +4,7 @@ title: "Administrative responsabilities"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /responsibilities
 ---
 
 {% include base_path %}
