@@ -11,8 +11,8 @@ redirect_from:
 
 ### Administrative responsibilities
 
-- Elected member of the board of the Carnot Pasteur doctoral school, representing doctoral students in mathematics.
-- Elected member of the board of the BFC-Maths Federation, representing doctoral students from the Besançon Mathematics Laboratory.
+- Elected board member of the Carnot Pasteur doctoral school, representing doctoral students in mathematics.
+- Elected board member of the BFC-Maths Federation, representing doctoral students from the Besançon Mathematics Laboratory.
 
 ### Scientific organization
 
