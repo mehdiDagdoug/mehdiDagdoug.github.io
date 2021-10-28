@@ -10,7 +10,7 @@ The classes that I have been a teaching assistant for can be found below, for ea
 
 ### Academic year 2021-2022 
 
-1) In master's degree:
+In master's degree:
 - Survey sampling, 
 - Oriented-object programming with C++ in Master 1 of statistics,
 - Python,
@@ -19,23 +19,23 @@ The classes that I have been a teaching assistant for can be found below, for ea
 
 ### Academic year 2020-2021
 
-1) In a master's degree of statistics:
+In a master's degree of statistics:
 - Survey sampling, 
 - Oriented-object programming with C++ in Master 1 of statistics,
 - Python,
 - Advanced R course.
 
-2) In a bachelor's degree:
+In a bachelor's degree:
 - Mathematical tools for scientists
 
 
 ### Academic year 2019-2020
 
-1) In a master's degree of statistics:
+In a master's degree of statistics:
 - Oriented-object programming with C++ in Master 1 of statistics,
 - Advanced R.
 
-2) In a bachelor's degree:
+In a bachelor's degree:
 - Mathematical tools for scientists (2 classes).
 
 
