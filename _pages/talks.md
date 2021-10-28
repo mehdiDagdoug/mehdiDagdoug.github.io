@@ -9,7 +9,7 @@ author_profile: true
 1. 13th International Conference of the ERCIM WG on Computational and Methodological Statistics, December 2020, Model-asssisted estimation through random forests in finite population sampling. 
 2. Statistics 2021 Canada, 16 juillet 2021, Model-assisted estimation through random forests in finite population sampling. 
 3. Joint Statistical Meeting (JSM) 2021, 10 aout 2021, Random forests imputation in surveys. 
-4. 
+
 
 ### Contributed conferences and invited seminars
 1.  Sixième Journée des Jeunes Chercheurs en Mathématiques de l’UBFC, April 2019, Imputation and calibration reweighting for surveys with missing data.
