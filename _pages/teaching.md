@@ -13,7 +13,7 @@ The classes for which I have been a teaching assistant can be found below, for e
 
 In master's degree:
 - Survey sampling, 
-- Oriented-object programming with C++ in Master 1 of statistics,
+- Oriented-object programming with C++,
 - Python,
 - Advanced R course,
 - Statistical learning
@@ -22,7 +22,7 @@ In master's degree:
 
 In a master's degree:
 - Survey sampling, 
-- Oriented-object programming with C++ in Master 1 of statistics,
+- Oriented-object programming with C++,
 - Python,
 - Advanced R course.
 
@@ -33,7 +33,7 @@ In a bachelor's degree:
 ### Academic year 2019-2020
 
 In a master's degree:
-- Oriented-object programming with C++ in Master 1 of statistics,
+- Oriented-object programming with C++,
 - Advanced R.
 
 In a bachelor's degree:
