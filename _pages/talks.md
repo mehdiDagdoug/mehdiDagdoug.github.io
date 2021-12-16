@@ -16,7 +16,7 @@ author_profile: true
 
 - **10 December 2021:** <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D. Forum des Jeunes Mathématicien.ne.s, Besançon, France. Random forests imputation in surveys. 
 - **8 October 2021:** <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D. 11e Colloque International Francophone sur les Sondages, Bruxelles, Belgium. Random forests imputation in surveys. 
-- **7 October 2021:** <ins> DAGDOUG, M., <ins> GOGA, C. </ins>& HAZIZA</ins>, D. 11e Colloque International Francophone sur les Sondages, Bruxelles, Belgium. Model-assisted estimation through random forests in finite population sampling, presentation with Camelia Goga. 
+- **7 October 2021:** <ins> DAGDOUG, M.</ins>, <ins> GOGA, C. </ins>& HAZIZA, D. 11e Colloque International Francophone sur les Sondages, Bruxelles, Belgium. Model-assisted estimation through random forests in finite population sampling, presentation with Camelia Goga. 
 - **July 2021:** <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D. 63rd ISI World Statistics Congress, The Hague, Netherlands (Virtual). Convergence rates of model-assisted estimators in high-dimensional settings. 
 - **9 July 2021:** <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D. Conference in honor of Fred Smith and Chris Skinner, Southampton, England (Virtual). Model-assisted estimation through random forests in finite population sampling. 
 - **5 July 2021:** <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D. 6ème Journée « probabilités et statistiques Besançon-Dijon », Dijon, France. High-dimensional asymptotics for model-assisted estimation. 
