@@ -11,7 +11,7 @@ The classes for which I have been a teaching assistant can be found below, for e
 
 ### Academic year 2021-2022 
 
-In master's degree:
+In a [master's degree of statistical modelling](https://lmb.univ-fcomte.fr/Master-Mathematiques-Appliquees):
 - Survey sampling, 
 - Oriented-object programming with C++,
 - Python,
@@ -20,7 +20,7 @@ In master's degree:
 
 ### Academic year 2020-2021
 
-In a master's degree:
+In a [master's degree of statistical modelling](https://lmb.univ-fcomte.fr/Master-Mathematiques-Appliquees):
 - Survey sampling, 
 - Oriented-object programming with C++,
 - Python,
@@ -32,7 +32,7 @@ In a bachelor's degree:
 
 ### Academic year 2019-2020
 
-In a master's degree:
+In a [master's degree of statistical modelling](https://lmb.univ-fcomte.fr/Master-Mathematiques-Appliquees):
 - Oriented-object programming with C++,
 - Advanced R.
 
