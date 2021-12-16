@@ -7,7 +7,7 @@ author_profile: true
 
 ### Invited conferences
 
-- <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D. Joint Statistical Meeting (JSM) 2021, 10 August 2021. Random forests imputation in surveys. 
+- <ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D. Joint Statistical Meeting (JSM) 2021, 10 August 2021. Random forests imputation in surveys. 
 - <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D. Statistics 2021 Canada, 16 July 2021, Montreal, Canada. Model-assisted estimation through random forests in finite population sampling. 
 - <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D. 13th International Conference of the ERCIM WG on Computational and Methodological Statistics, 21 December 2020, London, England. Model-asssisted estimation through random forests in finite population sampling. 
 
