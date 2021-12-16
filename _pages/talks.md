@@ -6,9 +6,15 @@ author_profile: true
 ---
 
 ### Invited conferences
-1. <ins>Mehdi Dagdoug</ins>, Camelia Goga, David Haziza. 13th International Conference of the ERCIM WG on Computational and Methodological Statistics, 21 December 2020, Model-asssisted estimation through random forests in finite population sampling. 
-2. <ins>Mehdi Dagdoug</ins>, Camelia Goga, David Haziza. Statistics 2021 Canada, 16 July 2021, Model-assisted estimation through random forests in finite population sampling. 
-3. <ins>Mehdi Dagdoug</ins>, Camelia Goga, David Haziza. Joint Statistical Meeting (JSM) 2021, 10 August 2021, Random forests imputation in surveys. 
+
+- <ins>Mehdi Dagdoug</ins>, Camelia Goga, David Haziza. 13th International Conference of the ERCIM WG on Computational and Methodological Statistics, 21 December 2020, Model-asssisted estimation through random forests in finite population sampling. 
+- <ins>Mehdi Dagdoug</ins>, Camelia Goga, David Haziza. Statistics 2021 Canada, 16 July 2021, Model-assisted estimation through random forests in finite population sampling. 
+- <ins>Mehdi Dagdoug</ins>, Camelia Goga, David Haziza. Joint Statistical Meeting (JSM) 2021, 10 August 2021, Random forests imputation in surveys. 
+
+
+5. <ins>Mehdi Dagdoug</ins>, Camelia Goga, David Haziza. 13th International Conference of the ERCIM WG on Computational and Methodological Statistics, 21 December 2020, Model-asssisted estimation through random forests in finite population sampling. 
+6. <ins>Mehdi Dagdoug</ins>, Camelia Goga, David Haziza. Statistics 2021 Canada, 16 July 2021, Model-assisted estimation through random forests in finite population sampling. 
+7. <ins>Mehdi Dagdoug</ins>, Camelia Goga, David Haziza. Joint Statistical Meeting (JSM) 2021, 10 August 2021, Random forests imputation in surveys. 
 
 
 ### Contributed conferences and invited seminars
