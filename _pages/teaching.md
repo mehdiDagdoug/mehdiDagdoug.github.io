@@ -7,36 +7,12 @@ author_profile: true
 
 During my PhD, I have been a teaching assistant in bachelor and master's programs, for both mathematical and computer sciences oriented classes.
 
-The classes for which I have been a teaching assistant can be found below, for each academic year.
-
-### Academic year 2021-2022 
-
-In a [master's degree of statistical modelling](https://lmb.univ-fcomte.fr/Master-Mathematiques-Appliquees):
-- Survey sampling, 
-- Oriented-object programming with C++,
-- Python,
-- Advanced R course,
-- Statistical learning
-
-### Academic year 2020-2021
-
-In a [master's degree of statistical modelling](https://lmb.univ-fcomte.fr/Master-Mathematiques-Appliquees):
-- Survey sampling, 
-- Oriented-object programming with C++,
-- Python,
-- Advanced R course.
-
-In a bachelor's degree:
-- Mathematical tools for scientists
+The classes for which I have been a teaching assistant can be found below, for each academic year. The classes were given for a [master's degree of statistical modelling](https://lmb.univ-fcomte.fr/Master-Mathematiques-Appliquees) as well as a bachelor's degree in science.
 
 
-### Academic year 2019-2020
-
-In a [master's degree of statistical modelling](https://lmb.univ-fcomte.fr/Master-Mathematiques-Appliquees):
-- Oriented-object programming with C++,
-- Advanced R.
-
-In a bachelor's degree:
-- Mathematical tools for scientists (2 classes).
-
-
+- **Statistical learning** (Master 2), taught in 2021-2022.
+- **Survey sampling** (Master 2), taught in 2021-2022 and 2020-2021.
+- **Python** (Master 2), taught in 2021-2022 and 2020-2021.
+- **Oriented-object programming with C++**, (Master 1), taught in 2021-2022, 2020-2021 and 2019-2020.
+- **Advanced R** (Master 1), taught in 2021-2022, 2020-2021 and 2019-2020.
+- **Calculus** (Bachelor 1), taught in 2020-2021 and 2019-2020 (two classes).
