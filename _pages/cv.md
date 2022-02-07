@@ -20,4 +20,4 @@ redirect_from:
 - Co-organizer with Valentin Petit (LmB) of [doctoral and student seminars for the academic year 2021-2022](https://lmb.univ-fcomte.fr/Archives-des-seminaires-2021-2022).
 - Co-organizer with Valentin Petit (LmB) of [doctoral and student seminars for the academic year 2020-2021](https://lmb.univ-fcomte.fr/Archives-des-seminaires-2020-2021).
 - Creation of a science popularization workshop for high school students entitled "Titanic, between maritime expedition and walk in random forests".
-- Co-organizer with Valentin Petit (LmB) of the "Setptième Journée des Jeunes Chercheurs en Mathématiques de l’UBFC", a workshop in which researchers in mathematics present their works for undergraduates and graduates as well as discuss career opportunities.
+- Co-organizer with Valentin Petit (LmB) of the "Septième Journée des Jeunes Chercheurs en Mathématiques de l’UBFC", a workshop in which researchers in mathematics present their works for undergraduates and graduates as well as discuss career opportunities.
