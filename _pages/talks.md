@@ -26,5 +26,7 @@ author_profile: true
 
 ### Invited seminars
 
+- **03 March 2022:** <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., Séminaire des doctorants du Laboratoire de Mathématiques de Besançon, Besançon, France. Model-assisted estimation through random forests in finite population sampling.
+- **24 February 2022:** <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., Séminaire des doctorants de l'institut mathématiques de Bourgogne, Dijon, France. Model-assisted estimation through random forests in finite population sampling.
 - **30 November 2020:** <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., Séminaire de l'équipe Probabilités et Statistiques du Laboratoire de Mathématiques de Besançon, Besançon, France (Virtual). Model-assisted estimation through random forests in finite population sampling.
 - **December 2019:** <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., Séminaire des doctorants du Laboratoire de Mathématiques de Besançon, Besançon, France. Model-assisted estimation through random forests in finite population sampling.
