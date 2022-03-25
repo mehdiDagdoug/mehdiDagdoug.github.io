@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ### Invited conferences
-
+- **30 - 3 May-June 2022**: <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., Congrès annuel 2021 de la Société de Statistique du Canada, Ottawa, Canada (Virtual). Model-asssisted estimation through random forests in finite population sampling. 
+- **8-10 June 2022**: <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., ITACOSM2022, Perugia, Italy. High-dimensional convergence for model-assisted estimators. 
 - **7-12 August 2021**: <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., Joint Statistical Meeting (JSM) 2021, Seattle, United-States (Virtual). Random forests imputation in surveys. 
 - **15 - 18 July 2021:** <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., Statistics 2021 Canada, Montreal, Canada (Virtual). Model-assisted estimation through random forests in finite population sampling. 
 - **19-21 December 2020:** <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., 13th International Conference of the ERCIM WG on Computational and Methodological Statistics, London, England (Virtual). Model-asssisted estimation through random forests in finite population sampling. 
@@ -26,8 +27,8 @@ author_profile: true
 - **12 April 2019:** <ins> DAGDOUG, M.</ins>, Sixième Journée des Jeunes Chercheurs en Mathématiques de l’UBFC, Besançon, France. Imputation and calibration reweighting for surveys with missing data.
 
 ### Invited seminars
-
-- **03 March 2022:** <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., Séminaire des doctorants du Laboratoire de Mathématiques de Besançon, Besançon, France. Analysis of regression tree and random forest imputation in surveys.
+- **3 March 2022:** <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., Séminaire de l'Institut de Statistique de Neuchâtel. Imputation par arbres de régression et forêts aléatoires en théorie des sondages.
+- **3 March 2022:** <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., Séminaire des doctorants du Laboratoire de Mathématiques de Besançon, Besançon, France. Analysis of regression tree and random forest imputation in surveys.
 - **24 February 2022:** <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., Séminaire des doctorants de l'institut mathématiques de Bourgogne, Dijon, France. Analysis of regression tree and random forest imputation in surveys.
 - **30 November 2020:** <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., Séminaire de l'équipe Probabilités et Statistiques du Laboratoire de Mathématiques de Besançon, Besançon, France (Virtual). Model-assisted estimation through random forests in finite population sampling.
 - **December 2019:** <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., Séminaire des doctorants du Laboratoire de Mathématiques de Besançon, Besançon, France. Model-assisted estimation through random forests in finite population sampling.
