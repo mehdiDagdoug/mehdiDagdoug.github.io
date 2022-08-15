@@ -4,13 +4,13 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 # Site Settings
 locale                   : "en-US"
 title                    : "Mehdi Dagdoug"
 title_separator          : "-"
 name                     : &name "Mehdi Dagdoug"
-description              : &description "PhD Student in statistics"
+description              : &description "Researcher in mathematical statistics."
 url                      : https://mehdidagdoug.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mehdiDagdoug/mehdiDagdoug.github.io"
@@ -75,7 +75,7 @@ analytics:
 author:
   name             : "Mehdi Dagdoug"
   avatar           : "https://mehdidagdoug.github.io/files/compressed.jpg"
-  bio              : "PhD Student in statistics"
+  bio              : "Researcher in mathematical statistics."
   location         : "Besançon, France"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?pli=1&authuser=1&user=LjZ0V7UAAAAJ"
