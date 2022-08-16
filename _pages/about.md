@@ -28,3 +28,6 @@ During my PhD, I was also a teaching assistant at the University of Bourgogne Fr
 ### Grants
 
 My research is currently supported by grants of the region of Franche-Comté and [Médiamétrie](https://www.mediametrie.fr/en), the french audience measurement company for TV, radio and internet. 
+
+### Curriculum vitæ
+A French version of my curriculum vitæ can be found [here](http://mehdiDagdoug.github.io/files/cv_french.pdf).
