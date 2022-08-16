@@ -25,7 +25,7 @@ More recently, I also began working on resampling methods (e.g. cross-validation
 During my PhD, I was also a teaching assistant at the University of Bourgogne Franche-Comté for classes in Bachelor and Master degrees. I have been teaching classes both in mathematics (statistical learning, survey sampling, calculus) and computer sciences (oriented-object programming with C++, advanced R course, Python).
 
 
-### Grants
+### Grants and fundings
 
 My research is currently supported by grants of the region of Franche-Comté and [Médiamétrie](https://www.mediametrie.fr/en), the french audience measurement company for TV, radio and internet. 
 
