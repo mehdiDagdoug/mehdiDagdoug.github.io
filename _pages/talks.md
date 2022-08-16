@@ -16,6 +16,7 @@ author_profile: true
 
 ### Contributed conferences 
 
+- **24 June 2022**: <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., ITACOSM2022, Besançon, France. High-dimensional convergence for model-assisted estimators. 
 - **29-31 March 2022:** <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., Journées de Méthodologie Statistique de l’Insee 2022 (JMS2022), Paris, France. Random forests in surveys: from model-assisted estimation to imputation.
 - **8-10 December 2021:** <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., Forum des Jeunes Mathématicien.ne.s, Besançon, France. Random forests imputation in surveys. 
 - **6-8 October 2021:** <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., 11e Colloque International Francophone sur les Sondages, Bruxelles, Belgium. Random forests imputation in surveys. 
