@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-In 2019 I began a PhD student in statistics at the Université de Bourgogne Franche-Comté, working under the supervision of the professors [Camelia Goga](http://goga.perso.math.cnrs.fr) from the Université de Bourgogne Franche-Comté and [David Haziza](http://www.davidhaziza.com) from the University of Ottawa. I have defended my thesis entitled [Statistical learning for high-dimensional sampling](https://mehdiDagdoug.github.io/files/Thèse_finale.pdf) on September 12, 2022; the manuscript can be found [here](https://mehdiDagdoug.github.io/files/Thèse_finale.pdf).
+In 2019 I began a PhD student in statistics at the Université de Bourgogne Franche-Comté, working under the supervision of the professors [Camelia Goga](http://goga.perso.math.cnrs.fr) from the Université de Bourgogne Franche-Comté and [David Haziza](http://www.davidhaziza.com) from the University of Ottawa. I have defended my thesis entitled [Statistical learning for high-dimensional sampling](http://mehdiDagdoug.github.io/files/Thèse_finale.pdf) on September 12, 2022; the manuscript can be found [here](http://mehdiDagdoug.github.io/files/Thèse_finale.pdf).
 
 
 My research interests include the theory of survey sampling, missing data, statistical learning and matrix completion. More precisely, I am working on solving estimation problems in survey sampling, with possible nonresponse, using statistical learning predictive models and matrix completion algorithms. I am particularly interested in cases when the number of covariates is particularly large (high-dimensional scenarios). 
