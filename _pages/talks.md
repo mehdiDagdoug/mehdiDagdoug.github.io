@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Invited conferences
-- **5- 8 August 2022**: <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., Summer School on Modern Methods in Survey Sampling, Ottawa, Canada. Random forests imputation in surveys.
+- **5- 8 July 2022**: <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., Summer School on Modern Methods in Survey Sampling, Ottawa, Canada. Random forests imputation in surveys.
 - **30 - 3 May-June 2022**: <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., Congrès annuel 2021 de la Société de Statistique du Canada, Ottawa, Canada (Virtual). Model-asssisted estimation through random forests in finite population sampling. 
 - **8-10 June 2022**: <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., ITACOSM2022, Perugia, Italy. High-dimensional convergence for model-assisted estimators. 
 - **7-12 August 2021**: <ins> DAGDOUG, M.</ins>, GOGA, C. & HAZIZA, D., Joint Statistical Meeting (JSM) 2021, Seattle, United-States (Virtual). Random forests imputation in surveys. 
