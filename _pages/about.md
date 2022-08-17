@@ -15,6 +15,7 @@ On September 12, 2022, I defended my PhD thesis entitled [Statistical learning f
 ### Research interests
 
 My main research interest lies in the intersection between the **theory of survey sampling** with possible **missing data** and **statistical learning**. \
+
 More precisely, I am working on developping and analyzing the theoretical and empirical properties of current methodologies aiming at solving estimation problems in survey sampling, with possible nonresponse, using tools from the fields of statistical learning and matrix completion. \
 I am particularly interested in cases when the number of covariates is especially large (high-dimensional scenarios). 
 
@@ -23,7 +24,8 @@ More recently, I also began working on resampling methods (e.g. cross-validation
 
 ### Teaching
 
-During my PhD, I was also a teaching assistant at the University of Bourgogne Franche-Comté for classes in Bachelor and Master degrees. I have been teaching classes both in mathematics (statistical learning, survey sampling, calculus) and computer sciences (oriented-object programming with C++, advanced R course, Python).
+During my PhD, I was also a teaching assistant at the University of Bourgogne Franche-Comté for classes in Bachelor and Master degrees. \
+I have been teaching classes both in mathematics (statistical learning, survey sampling, calculus) and computer sciences (oriented-object programming with C++, advanced R course, Python).
 
 
 ### Grants and fundings
