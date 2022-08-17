@@ -16,7 +16,7 @@ On July 12, 2022, I defended my PhD thesis entitled [Statistical learning for hi
 
 My main research interest lies in the intersection between the <ins>theory of survey sampling</ins> with possible <ins>missing data</ins> and <ins>statistical learning</ins>. 
 
-More precisely, I am working on developping and analyzing the theoretical and empirical properties of current methodologies aiming at solving estimation problems in survey sampling, with possible nonresponse, using tools from the fields of statistical learning and matrix completion. \
+More precisely, I am working on developping and analyzing the properties of methodologies for solving estimation problems in survey sampling, with possible nonresponse, using tools from the fields of statistical learning and matrix completion. \
 I am particularly interested in cases when the number of covariates is especially large (high-dimensional scenarios). 
 
 More recently, I also began working on resampling methods (e.g. cross-validation, jacknife) and their applications for model selection in survey sampling and time series.
