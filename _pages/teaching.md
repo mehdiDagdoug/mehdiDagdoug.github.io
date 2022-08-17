@@ -3,6 +3,9 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+output:
+  html_document:
+    css: style.css
 ---
 
 During my PhD, I have been a teaching assistant in bachelor and master's programs, for both mathematical and computer sciences oriented classes.
