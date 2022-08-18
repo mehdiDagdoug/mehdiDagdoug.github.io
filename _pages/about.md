@@ -19,7 +19,7 @@ My main research interest lies in the intersection between the <ins>theory of su
 More precisely, I am working on developping and analyzing the properties of methodologies for solving estimation problems in survey sampling, with possible nonresponse, using tools from the fields of statistical learning and matrix completion. \
 I am particularly interested in cases when the number of covariates is especially large (high-dimensional scenarios). 
 
-More recently, I also began working on resampling methods (e.g. cross-validation, jacknife) and their applications for model selection in survey sampling and time series.
+More recently, I also began working on <ins>resampling methods</ins> (e.g. cross-validation, jacknife) and their applications for <ins>model selection</ins> in survey sampling and <ins>time series</ins>.
 
 
 ## Teaching
