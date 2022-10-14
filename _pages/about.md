@@ -12,6 +12,8 @@ In 2019, I began a PhD in mathematical statistics in the Laboratory of Mathemati
 
 On July 12, 2022, I defended my PhD thesis entitled [Statistical learning for high-dimensional sampling](http://mehdiDagdoug.github.io/files/these.pdf).
 
+I am currently a Postdoctoral fellow at the University of Ottawa in the Department of Mathematics and Statistics, working under the supervision of David Haziza.
+
 ## Research interests
 
 My main research interest lies in the intersection between the <ins>theory of survey sampling</ins> with possible <ins>missing data</ins> and <ins>statistical learning</ins>. 
