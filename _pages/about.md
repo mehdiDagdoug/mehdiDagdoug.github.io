@@ -27,7 +27,7 @@ More recently, I also began working on <ins>resampling methods</ins> (e.g. cross
 ## Teaching
 
 During my PhD, I was also a teaching assistant at the University of Bourgogne Franche-Comté for classes in Bachelor and Master degrees. \
-I have been teaching classes both in mathematics (statistical learning, survey sampling, calculus) and computer sciences (oriented-object programming with C++, advanced R course, Python).
+I have been teaching classes both in mathematics (statistical learning, survey sampling, elementary statistics, calculus) and computer sciences (oriented-object programming with C++, advanced R course, Python).
 
 
 ## Grants and fundings
