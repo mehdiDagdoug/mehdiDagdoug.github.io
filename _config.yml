@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mehdi Dagdoug"
 title_separator          : "-"
 name                     : &name "Mehdi Dagdoug"
-description              : &description "Researcher in statistics."
+description              : &description "Postdoctoral researcher in statistics."
 url                      : https://mehdidagdoug.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mehdiDagdoug/mehdiDagdoug.github.io"
@@ -75,11 +75,11 @@ analytics:
 author:
   name             : "Mehdi Dagdoug"
   avatar           : "https://mehdidagdoug.github.io/files/compressed.jpg"
-  bio              : "Researcher in statistics."
-  location         : "Besançon, France"
+  bio              : "Postdoctoral researcher in statistics."
+  location         : "Ottawa, Canada"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?pli=1&authuser=1&user=LjZ0V7UAAAAJ"
-  email            : "mohamed_mehdi.dagdoug@univ-fcomte.fr"
+  email            : "mdagdoug@uottawa.ca"
   researchgate     :  "https://www.researchgate.net/profile/Mehdi_Dagdoug2"
   uri              :
   bitbucket        :
