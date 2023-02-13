@@ -14,17 +14,17 @@ The classes for which I have been a teaching assistant can be found below, for e
 
 ### Courses taught in a Master of Science
 
-- *Research course in statistics: matrix completion and missing data in surveys*: (Master, 2nd year), taught in 2022-2023. 
-- *Survey sampling*: (Master, 2nd year), taught in 2021-2022, 2021-2022 and 2022-2023. 
-- *Statistical learning*: (Master, 2nd year), taught in 2021-2022.
-- *Python*: (Master, 2nd year), taught in 2021-2022 and 2020-2021.
-- *Oriented-object programming with C++*: (Master, 1st year), taught in 2021-2022, 2020-2021 and 2019-2020.
-- *Advanced R*: (Master, 1st year), taught in 2021-2022, 2020-2021 and 2019/2020.
+- </ins>Research course in statistics: matrix completion and missing data in surveys</ins>: (Master, 2nd year), taught in 2022-2023. 
+- </ins>Survey sampling</ins>: (Master, 2nd year), taught in 2021-2022, 2021-2022 and 2022-2023. 
+- </ins>Statistical learning</ins>: (Master, 2nd year), taught in 2021-2022.
+- </ins>Python</ins>: (Master, 2nd year), taught in 2021-2022 and 2020-2021.
+- </ins>Oriented-object programming with C++</ins>: (Master, 1st year), taught in 2021-2022, 2020-2021 and 2019-2020.
+- </ins>Advanced R</ins>: (Master, 1st year), taught in 2021-2022, 2020-2021 and 2019/2020.
 
 ### Courses taught in a Bachelor of Science
 
-- *Elementary statistics*: (Bachelor, 3rd year), taught in 2022/2023.
-- *Mathematical tools*: (Bachelor, 1st year), taught in 2020-2021 and 2019-2020 (two classes).
+- </ins>Elementary statistics</ins>: (Bachelor, 3rd year), taught in 2022/2023.
+- </ins>Mathematical tools</ins>: (Bachelor, 1st year), taught in 2020-2021 and 2019-2020 (two classes).
 
 
 ### Science popularization and interactions with secondary school
