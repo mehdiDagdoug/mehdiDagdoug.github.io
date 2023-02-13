@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+
+I am currently a Postdoctoral fellow at the University of Ottawa in the Department of Mathematics and Statistics, working under the supervision of David Haziza.
+
 In 2019, I began a PhD in mathematical statistics in the Laboratory of Mathematics of Besançon, at the Université de Bourgogne Franche-Comté, working under the supervision of the professors [Camelia Goga](http://goga.perso.math.cnrs.fr) from the Université de Bourgogne Franche-Comté and [David Haziza](http://www.davidhaziza.com) from the University of Ottawa. 
 
 On July 12, 2022, I defended my PhD thesis entitled [Statistical learning for high-dimensional sampling](http://mehdiDagdoug.github.io/files/these.pdf).
-
-I am currently a Postdoctoral fellow at the University of Ottawa in the Department of Mathematics and Statistics, working under the supervision of David Haziza.
 
 ## Research interests
 
@@ -32,7 +33,7 @@ I have been teaching classes both in mathematics (statistical learning, survey s
 
 ## Grants and fundings
 
-My research is currently supported by grants of the region of Franche-Comté and [Médiamétrie](https://www.mediametrie.fr/en), the french audience measurement company for TV, radio and internet. 
+During my Ph.D., my research was supported by grants of the region of Franche-Comté and [Médiamétrie](https://www.mediametrie.fr/en), the french audience measurement company for TV, radio and internet. 
 
 ## Curriculum vitæ
-A French version of my curriculum vitæ can be found [here](http://mehdiDagdoug.github.io/files/cv.pdf).
+A English version of my curriculum vitæ can be found [here](http://mehdiDagdoug.github.io/files/CV_english.pdf) and a French version [here](http://mehdiDagdoug.github.io/files/CV_french.pdf).
