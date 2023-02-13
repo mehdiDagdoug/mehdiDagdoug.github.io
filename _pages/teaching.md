@@ -28,6 +28,6 @@ The classes for which I have been a teaching assistant can be found below, for e
 
 
 ### Science popularization and interactions with secondary school
-- Conference for the final of "Rallye de mathématique des collégiens 2022" entitled "What is survey sampling?" (~150 attendees).
-- Conference for the final of "Rallye de mathématique des lycéens 2022" entitled "Titanic, between a maritime expedition and a walk in random forests" (~100 attendees).
+- Conference for the final of "Rallye de mathématique des collégiens 2022" entitled *What is survey sampling?*" (~150 attendees).
+- Conference for the final of "Rallye de mathématique des lycéens 2022" entitled *Titanic, between a maritime expedition and a walk in random forests* (~100 attendees).
 - Creation of a science popularization workshop for high school students entitled *Titanic, between a maritime expedition and a walk in random forests* (~30 attendees).
