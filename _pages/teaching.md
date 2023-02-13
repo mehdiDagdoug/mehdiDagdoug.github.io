@@ -21,7 +21,8 @@ The classes for which I have been a teaching assistant can be found below, for e
 - **Oriented-object programming with C++**: (Master, 1st year), taught in 2021-2022, 2020-2021 and 2019-2020.
 - **Advanced R**: (Master, 1st year), taught in 2021-2022, 2020-2021 and 2019/2020.
 
-### Courses taught in a Master of Science
+### Courses taught in a Bachelor of Science
+
 - **Elementary statistics**: (Bachelor, 3rd year), taught in 2022/2023.
 - **Mathematical tools**: (Bachelor, 1st year), taught in 2020-2021 and 2019-2020 (two classes).
 
