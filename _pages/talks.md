@@ -17,6 +17,7 @@ author_profile: true
 
 ### Contributed conferences 
 
+- **28-31 May 2023:** <ins> Dagdoug, M.</ins>, Eustache, E. & Haziza, D., SSC 2023 Annual Meeting, Ottawa, Canada. High-dimensional model-assisted estimation for survey data.
 - **29-31 March 2022:** <ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D., Journées de Méthodologie Statistique de l’Insee 2022 (JMS2022), Paris, France. Random forests in surveys: from model-assisted estimation to imputation.
 - **8-10 December 2021:** <ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D., Forum des Jeunes Mathématicien.ne.s, Besançon, France. Random forests imputation in surveys. 
 - **6-8 October 2021:**<ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D., 11e Colloque International Francophone sur les Sondages, Bruxelles, Belgium. Random forests imputation in surveys. 
