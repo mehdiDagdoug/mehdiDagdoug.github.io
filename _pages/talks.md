@@ -30,6 +30,7 @@ author_profile: true
 - **12 April 2019:** <ins> Dagdoug, M.</ins>, Sixième Journée des Jeunes Chercheurs en Mathématiques de l’UBFC, Besançon, France. Imputation and calibration reweighting for surveys with missing data.
 
 ### Invited seminars and other events
+- **22 February 2023:** <ins> Dagdoug, M.</ins>, Séminaire de statistique de l'Université du Québec à Montréal (STATQAM), Montréal, Canada. Statistical learning for high-dimensional sampling.
 - **24 June 2022:** <ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D., XXIièmes journées de l’École Doctorale Carnot-Pasteur, Besançon, France. High-dimensional consistency for model-assisted estimators in surveys.
 - **3 March 2022:** <ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D., Séminaire de l'Institut de Statistique de Neuchâtel, Neuchâtel, Switzerland. Imputation par arbres de régression et forêts aléatoires en théorie des sondages.
 - **3 March 2022:** <ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D., Séminaire des doctorants du Laboratoire de Mathématiques de Besançon, Besançon, France. Analysis of regression tree and random forest imputation in surveys.
