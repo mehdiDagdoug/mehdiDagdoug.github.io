@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am currently an Assistant Professor in the Department of Mathematics and Statistics at McGill University.
+I am an Assistant Professor in the Department of Mathematics and Statistics at McGill University. My office is located in Burnside Hall (805, rue Sherbrooke Ouest) on the 12th floor, room 1230.
 
 Before that, I was a Postdoctoral fellow at the University of Ottawa in the Department of Mathematics and Statistics, working under the supervision of [David Haziza](http://www.davidhaziza.com).
 
