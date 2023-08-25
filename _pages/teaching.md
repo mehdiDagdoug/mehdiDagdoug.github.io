@@ -12,8 +12,8 @@ output:
 
 I am currently the instructor for the following courses at McGill University:
 
-- MATH 533: Regression And Analysis of Variance.
-- MATH 525: Sampling Theory and Applications.
+- [MATH 533: Regression And Analysis of Variance](https://www.mcgill.ca/study/2023-2024/courses/math-533).
+- [MATH 525: Sampling Theory and Applications](https://www.mcgill.ca/study/2023-2024/courses/math-525).
 
 The material for these courses can be found on the MyCourses website.
 
@@ -39,4 +39,4 @@ During my PhD, I have been a teaching assistant in bachelor's and master's progr
 ### Science popularization and interactions with secondary school
 - Conference for the final of "Rallye de mathématique des collégiens 2022" entitled *What is survey sampling?*" (~150 attendees).
 - Conference for the final of "Rallye de mathématique des lycéens 2022" entitled *Titanic, between a Maritime Expedition and a Walk in Random Forests* (~100 attendees).
-- Creation of a science popularization workshop for high school students entitled *Titanic, between a maritime expedition and a walk in random forests* (~30 attendees).
+- Creation of a science popularization workshop for high school students entitled *Titanic, between a Maritime Expedition and a Walk in random forests* (~30 attendees).
