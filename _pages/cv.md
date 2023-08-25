@@ -11,11 +11,12 @@ redirect_from:
 
 ### Administrative responsibilities
 
-- Elected board member of the [Carnot Pasteur doctoral school](https://cp.ubfc.fr), representing doctoral students in mathematics.
-- Elected board member of the [BFC-Maths Federation](https://bfcm.math.cnrs.fr), representing doctoral students from the Besançon Mathematics Laboratory.
+- May 2020 - October 2022: Elected board member of the [Carnot Pasteur doctoral school](https://cp.ubfc.fr), representing doctoral students in mathematics.
+- February 2021 - October 2022: Elected board member of the [BFC-Maths Federation](https://bfcm.math.cnrs.fr), representing doctoral students from the Besançon Mathematics Laboratory.
 
 ### Scientific organization
 
+- August 1st - Present: Organizer of the [McGill Statistics Seminar](https://mcgillstat.github.io) series for the academic year 2023-2024. 
 - Co-organizer with Valentin Petit (LmB) of the *Septième Journée des Jeunes Chercheurs en Mathématiques de l’UBFC*.
 - Member of the organizing comitee of the [Forum des jeunes mathématicien.ne.s 2021](https://jmb2021.sciencesconf.org).
 - Co-organizer with Valentin Petit (LmB) of [doctoral and student seminars for the academic year 2021-2022](https://lmb.univ-fcomte.fr/Archives-des-seminaires-2021-2022).
