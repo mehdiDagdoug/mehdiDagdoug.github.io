@@ -8,9 +8,18 @@ output:
     css: style.css
 ---
 
-During my PhD, I have been a teaching assistant in bachelor and master's programs, for both mathematical and computer sciences oriented classes.
+## Current courses
 
-The classes for which I have been a teaching assistant can be found below, for each academic year. The classes were given for a [master's degree of statistical modelling](https://lmb.univ-fcomte.fr/Master-Mathematiques-Appliquees) as well as a bachelor's degree in science.
+I am currently the instructor for the following courses at McGill University:
+
+- MATH 533: Regression And Analysis of Variance.
+- MATH 525: Sampling Theory and Applications.
+
+The material for these courses can be found on the MyCourses website.
+
+## Older courses taught
+
+During my PhD, I have been a teaching assistant in bachelor's and master's programs, for both mathematical and computer sciences-oriented classes. The courses for which I have been a teaching assistant can be found below, for each academic year. The courses were given for a [master's degree in statistical modeling](https://lmb.univ-fcomte.fr/Master-Mathematiques-Appliquees) as well as a bachelor's degree in science.
 
 ### Courses taught in a Master of Science
 
@@ -29,5 +38,5 @@ The classes for which I have been a teaching assistant can be found below, for e
 
 ### Science popularization and interactions with secondary school
 - Conference for the final of "Rallye de mathématique des collégiens 2022" entitled *What is survey sampling?*" (~150 attendees).
-- Conference for the final of "Rallye de mathématique des lycéens 2022" entitled *Titanic, between a maritime expedition and a walk in random forests* (~100 attendees).
+- Conference for the final of "Rallye de mathématique des lycéens 2022" entitled *Titanic, between a Maritime Expedition and a Walk in Random Forests* (~100 attendees).
 - Creation of a science popularization workshop for high school students entitled *Titanic, between a maritime expedition and a walk in random forests* (~30 attendees).
