@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Invited conferences
-- **16 - 18 December 2023**:<ins> Dagdoug, M.</ins>, & Haziza, D., 16th International Conference of the ERCIM WG on Computational and Methodological Statistics, Berlin, Germany. *Model-assisted estimation through random forests in finite population sampling*.  
+- **16 - 18 December 2023**:<ins> Dagdoug, M.</ins>, & Haziza, D., 16th International Conference of the ERCIM WG on Computational and Methodological Statistics, Berlin, Germany. *Variance estimation for survey estimators based on statistical learning procedures*.  
 - **21 - 24 March 2023**:<ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D., 12e Colloque International Francophone sur les Sondages, Aubervilliers, France. *Model-assisted estimation through random forests in finite population sampling*.  
 - **5 - 8 July 2022**: <ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D., Summer School on Modern Methods in Survey Sampling, Ottawa, Canada. *Random forests imputation in surveys*.
 - **30 - 3 May-June 2022**: <ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D., Congrès annuel 2021 de la Société de Statistique du Canada, Ottawa, Canada (Virtual). *Model-asssisted estimation through random forests in finite population sampling*. 
