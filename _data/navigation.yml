@@ -13,7 +13,7 @@ main:
     url: /cv/
 
   - title: "Students"
-    url: /students/
+    url: /markdown/
     
 #- title: "Responsabilities"
 #    url: /year-archive/
