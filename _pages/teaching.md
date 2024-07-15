@@ -17,6 +17,15 @@ I am currently the instructor for the following courses at McGill University:
 
 The material for these courses can be found on the MyCourses website.
 
+
+## Science popularization and interactions with secondary school
+- Presentation for "Soup and Science" entitled *Missing data treatment in surveys*".
+- Roundtable for "Undergraduate Research Panel" short talk entitled *Missing data treatment in surveys*".
+- Conference for the final of "Rallye de mathématique des collégiens 2022" entitled *What is survey sampling?*.
+- Conference for the final of "Rallye de mathématique des lycéens 2022" entitled *Titanic, between a Maritime Expedition and a Walk in Random Forests*.
+- Creation of a science popularization workshop for high school students entitled *Titanic, between a Maritime Expedition and a Walk in Random Forests*.
+
+
 ## Older courses taught
 
 During my PhD, I have been a teaching assistant in bachelor's and master's programs, for both mathematical and computer sciences-oriented classes. The courses for which I have been a teaching assistant can be found below, for each academic year. The courses were given for a [master's degree in statistical modeling](https://lmb.univ-fcomte.fr/Master-Mathematiques-Appliquees) as well as a bachelor's degree in science.
@@ -35,8 +44,3 @@ During my PhD, I have been a teaching assistant in bachelor's and master's progr
 - <ins>Elementary statistics</ins>: (Bachelor, 3rd year), taught in 2022/2023.
 - <ins>Mathematical tools</ins>: (Bachelor, 1st year), taught in 2020-2021 and 2019-2020 (two classes).
 
-
-### Science popularization and interactions with secondary school
-- Conference for the final of "Rallye de mathématique des collégiens 2022" entitled *What is survey sampling?*" (~150 attendees).
-- Conference for the final of "Rallye de mathématique des lycéens 2022" entitled *Titanic, between a Maritime Expedition and a Walk in Random Forests* (~100 attendees).
-- Creation of a science popularization workshop for high school students entitled *Titanic, between a Maritime Expedition and a Walk in random forests* (~30 attendees).
