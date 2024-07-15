@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Ph.D. Students:**
-- <ins>Ziming An<ins>: 2023 - present. Joint supervision with David Haziza. University of Ottawa.
+- <ins>Ziming An <ins>: 2023 - present. Joint supervision with David Haziza. University of Ottawa.
 - <ins>John Tsang<ins>: 2023 - present. Joint supervision with David Haziza. University of Ottawa.
 
 **M. Sc. Students:**
