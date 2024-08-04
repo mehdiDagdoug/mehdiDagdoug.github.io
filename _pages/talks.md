@@ -8,7 +8,7 @@ author_profile: true
 ### Invited conferences
 - **8 - 10 July 2024**: <ins> Dagdoug, M.</ins>, CANSSI-CRT Workshop on Modern Methods in Survey Sampling, Ottawa, Canada. *Variance estimation for survey estimators based on statistical learning models*. 
 - **17 - 20 June 2024**: <ins> Dagdoug, M.</ins>, Eustache, E. & Haziza, D., SIS 2024, Bari, Italy. *High-dimensional variance estimation in survey sampling*. 
-- **2 - 5 June 2024**: <ins> Dagdoug, M.</ins>, Eustache, E. & Haziza, D., ICSA-Canada Chapter 2024 Symposium, Niagara Falls, Canada. *Variance estimation for survey estimators based on statistical learning models*. 
+- **7 - 9 June 2024**: <ins> Dagdoug, M.</ins>, Eustache, E. & Haziza, D., ICSA-Canada Chapter 2024 Symposium, Niagara Falls, Canada. *Variance estimation for survey estimators based on statistical learning models*. 
 - **2 - 5 June 2024**: <ins> Dagdoug, M.</ins>, Eustache, E. & Haziza, D., 2024 SSC Annual Meeting, St. John's, Canada. *Variance estimation for survey estimators based on statistical learning models*. 
 - **18 April 2024**:<ins> Dagdoug, M.</ins>, Séminaire en ligne sur les sondages, France (online). *Apprentissage statistique pour l’échantillonnage en population finie*.  
 - **16 - 18 December 2023**:<ins> Dagdoug, M.</ins>, & Haziza, D., 16th International Conference of the ERCIM WG on Computational and Methodological Statistics, Berlin, Germany. *Variance estimation for survey estimators based on statistical learning procedures*.  
