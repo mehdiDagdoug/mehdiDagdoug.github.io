@@ -43,8 +43,9 @@ For more details about teaching, please see the [Teaching](https://mehdidagdoug.
 In 2022, I had the honor of being named Laureate of the first edition of the Jean-Claude Deville Prize of the French Statistical Society. See the Jean-Claude Deville prize [webpage](https://www.sfds.asso.fr/fr/enquetes_modeles_et_applications/groupe_enquetes_modeles_et_applications/683-bourses_et_prix/) for details.
 
 ## Grants and funding
+I am currently supported by grants from NSERC (Discovery Grants) and Mitacs (Accelerate Proposal). 
 
 During my Ph.D., my research was supported by grants from the region of Franche-Comté and [Médiamétrie](https://www.mediametrie.fr/en), the French audience measurement company for TV, radio, and internet. 
 
 ## Curriculum vitæ
-An English version of my curriculum vitæ can be found [here](http://mehdiDagdoug.github.io/files/CV_english.pdf).
+An English version of my curriculum vitæ can be found [here](http://mehdiDagdoug.github.io/files/CV_Dagdoug.pdf).
