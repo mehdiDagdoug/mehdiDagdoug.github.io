@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ### Invited conferences
+- **9 Decemver 2024**: <ins> Dagdoug, M.</ins>, Bank of Canada Workshop: Understanding and Correcting for Non-response Bias, Ottawa, Canada. *High-dimensional variance estimation for model-assisted and imputed estimators*. 
 - **8 - 10 July 2024**: <ins> Dagdoug, M.</ins>, CANSSI-CRT Workshop on Modern Methods in Survey Sampling, Ottawa, Canada. *Variance estimation for survey estimators based on statistical learning models*. 
 - **17 - 20 June 2024**: <ins> Dagdoug, M.</ins>, Eustache, E. & Haziza, D., SIS 2024, Bari, Italy. *High-dimensional variance estimation in survey sampling*. 
 - **7 - 9 June 2024**: <ins> Dagdoug, M.</ins>, Eustache, E. & Haziza, D., ICSA-Canada Chapter 2024 Symposium, Niagara Falls, Canada. *Variance estimation for survey estimators based on statistical learning models*. 
@@ -36,7 +37,7 @@ author_profile: true
 - **12 April 2019:** <ins> Dagdoug, M.</ins>, Sixième Journée des Jeunes Chercheurs en Mathématiques de l’UBFC, Besançon, France. *Imputation and calibration reweighting for surveys with missing data*.
 
 ### Invited seminars and other events
-
+- **16 November 2024:** <ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D., Séminaire de Statistique, Université de Bourgogone Franche-Comté, Besançon, France. *Statistical learning for finite population sampling: some challenges*.
 - **27 November 2023:** <ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D., Séminaire de Statistique, Université de Sherbrooke, Sherbrooke, Canada. *Inference in surveys with random forest imputed estimators*.
 - **18 September 2023:** <ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D., Centre de Recherches en Mathématiques (CRM), Applied Mathematics Seminars, Montreal, Canada. *Statistical inference in surveys with random forest imputed estimators*.
 - **6 June 2023:** <ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D., Bank of Canada, Ottawa, Canada. *Statistical Inference in the Presence of Imputed Survey Data Through Regression Trees and Random Forests*.
