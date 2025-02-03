@@ -17,6 +17,9 @@ I am currently the instructor for the following courses at McGill University:
 
 The material for these courses can be found on the MyCourses website.
 
+## Occasional courses
+- <ins>Research course in statistics: matrix completion and missing data</ins>: (Master, 2nd year), taught in December 2025 at the University of Bourgogne Franche-Comté. 
+
 
 ## Science popularization and interactions with secondary school
 - Presentation for "Soup and Science" entitled *Missing data treatment in surveys*".
