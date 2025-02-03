@@ -30,7 +30,7 @@ More recently, I also began working on <ins>resampling methods</ins> (e.g., cros
 
 ## Teaching
 
-I am currently teaching the courses MATH 533 (Linear regression and analysis of variance) and MATH 525 (Sampling Theory and Applications) at McGill University. For details, including the material of the course, please see McGill myCourses website.
+I am currently teaching MATH 533 (Linear regression and analysis of variance) and MATH 525 (Sampling Theory and Applications) at McGill University. For details, including the course material, please see the McGill myCourses website.
 
 During my Ph.D., I was also a teaching assistant at the University of Bourgogne Franche-Comté for classes in Bachelor's and Master's degrees. 
 I have been teaching classes both in mathematics (research course in statistics, statistical learning, survey sampling, elementary statistics, calculus) and computer sciences (oriented-object programming with C++, an advanced R course, and Python). 
