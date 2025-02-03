@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Invited conferences
-- **9 Decemver 2024**: <ins> Dagdoug, M.</ins>, Bank of Canada Workshop: Understanding and Correcting for Non-response Bias, Ottawa, Canada. *High-dimensional variance estimation for model-assisted and imputed estimators*. 
+- **9 December 2024**: <ins> Dagdoug, M.</ins>, Bank of Canada Workshop: Understanding and Correcting for Non-response Bias, Ottawa, Canada. *High-dimensional variance estimation for model-assisted and imputed estimators*. 
 - **8 - 10 July 2024**: <ins> Dagdoug, M.</ins>, CANSSI-CRT Workshop on Modern Methods in Survey Sampling, Ottawa, Canada. *Variance estimation for survey estimators based on statistical learning models*. 
 - **17 - 20 June 2024**: <ins> Dagdoug, M.</ins>, Eustache, E. & Haziza, D., SIS 2024, Bari, Italy. *High-dimensional variance estimation in survey sampling*. 
 - **7 - 9 June 2024**: <ins> Dagdoug, M.</ins>, Eustache, E. & Haziza, D., ICSA-Canada Chapter 2024 Symposium, Niagara Falls, Canada. *Variance estimation for survey estimators based on statistical learning models*. 
