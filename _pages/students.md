@@ -15,3 +15,4 @@ author_profile: true
 
 - <ins>Evelyn Hubbard</ins>: 2024 - present. Joint supervision with Abbas Khalili. McGill University.
 - <ins>Gulliver Hager</ins>: 2024 - present. McGill University.
+- <ins>Mila Pourali</ins>: 2025 - present. McGill University.
