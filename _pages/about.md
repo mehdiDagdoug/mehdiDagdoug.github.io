@@ -14,7 +14,7 @@ I am an Assistant Professor in the Department of Mathematics and Statistics at M
 
 Before that, I was a Postdoctoral fellow at the University of Ottawa in the Department of Mathematics and Statistics, working under the supervision of [David Haziza](http://www.davidhaziza.com).
 
-I did a Ph.D. in Mathematics in the Laboratory of Mathematics of Besançon at the Université de Bourgogne Franche-Comté, working under the supervision of the professors [Camelia Goga](http://goga.perso.math.cnrs.fr) from the Université de Bourgogne Franche-Comté and David Haziza from the University of Ottawa. 
+I did a Ph.D. in Mathematics in the Laboratory of Mathematics of Besançon at the Université de Bourgogne Franche-Comté, working under the supervision of [Camelia Goga](http://goga.perso.math.cnrs.fr) from the Université de Bourgogne Franche-Comté and David Haziza from the University of Ottawa. 
 
 On July 12, 2022, I defended my PhD thesis entitled [Statistical learning for high-dimensional sampling](http://mehdiDagdoug.github.io/files/these.pdf).
 
