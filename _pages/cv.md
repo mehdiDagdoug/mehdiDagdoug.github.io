@@ -12,7 +12,7 @@ redirect_from:
 ### Administrative responsibilities
 
 - July 2024 - June 2027: Committee Member, Student Travel Grants Committee, Statistical Society of Canada.
-- March 2024 - Present: Committee Member, NSERC USRA and SURA Summer Research Awards - Ranking Committee, McGill University.
+- March 2024: Committee Member, NSERC USRA and SURA Summer Research Awards - Ranking Committee, McGill University.
 - August 2023 - Present: Committee Member, Committee of Undergraduate Affairs, McGill University.
 - September 2023 - December 2023: Committee Member, Statistics Search Committee, McGill University.
 - May 2020 - October 2022: Elected board member of the [Carnot Pasteur doctoral school](https://cp.ubfc.fr), representing doctoral students in mathematics.
