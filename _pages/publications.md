@@ -12,5 +12,5 @@ author_profile: true
 3. Dagdoug, M., Goga, C. & Haziza, D. (2023). [Model-assisted estimation in high-dimensional settings for survey data](https://www.tandfonline.com/doi/abs/10.1080/02664763.2022.2047905). Journal of Applied Statistics, 50(3), 761-785 ([Preprint](http://mehdiDagdoug.github.io/files/HD_DagdougGogaHaziza.pdf), [Supplementary materials](http://mehdiDagdoug.github.io/files/SM_HD_DagdougGogaHaziza.pdf)).
 4.  Dagdoug, M., Goga, C., & Haziza, D. (2024+). Statistical inference in the presence of imputed survey data through regression trees and random forests. In revision for Scandinavian Journal of Statistics.
 5. Larbi, K., Tsang, J., Haziza, D. & Dagdoug. M. (2024). Treatment of unit nonresponse in surveys through machine learning methods: an empirical comparison. Accepted for publication in Survey Methodology.
-6. Eustache, E. Dagdoug, M., & Haziza, D. (2025+). On high-dimensional variance estimation in survey sampling. Accepted for publication in Scandinavian Journal of Statistics. ([Preprint](http://mehdiDagdoug.github.io/files/EustacheDagdougHaziza(2025).pdf)
+6. Eustache, E. Dagdoug, M., & Haziza, D. (2025+). On high-dimensional variance estimation in survey sampling. Accepted for publication in Scandinavian Journal of Statistics. ([Preprint](http://mehdiDagdoug.github.io/files/EustacheDagdougHaziza(2025).pdf)).
 
