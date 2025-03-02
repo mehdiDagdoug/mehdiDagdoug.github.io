@@ -18,11 +18,11 @@ author_profile: true
 *Journal of Applied Statistics*, 50(3), 761-785 ([Preprint](http://mehdiDagdoug.github.io/files/HD_DagdougGogaHaziza.pdf), [Supplementary materials](http://mehdiDagdoug.github.io/files/SM_HD_DagdougGogaHaziza.pdf)).
 
 
-4.  Dagdoug, M., Goga, C., & Haziza, D. (2024+). Statistical inference in the presence of imputed survey data through regression trees and random forests. Accepted for publication in *Scandinavian Journal of Statistics*.([Preprint](http://mehdiDagdoug.github.io/files/DagdougGogaHaziza(2025).pdf)).
+4. Larbi, K., Tsang, J., Haziza, D. & Dagdoug. M. (2024). Treatment of unit nonresponse in surveys through machine learning methods: an empirical comparison. Accepted for publication in *Survey Methodology*.([Preprint](http://mehdiDagdoug.github.io/files/LarbiTsangHazizaDagdoug(2024).pdf)).
 
 
-5. Larbi, K., Tsang, J., Haziza, D. & Dagdoug. M. (2024). Treatment of unit nonresponse in surveys through machine learning methods: an empirical comparison. Accepted for publication in *Survey Methodology*.([Preprint](http://mehdiDagdoug.github.io/files/LarbiTsangHazizaDagdoug(2024).pdf)).
+5.  Dagdoug, M., Goga, C., & Haziza, D. (2025). Statistical inference in the presence of imputed survey data through regression trees and random forests. Accepted for publication in *Scandinavian Journal of Statistics*.([Preprint](http://mehdiDagdoug.github.io/files/DagdougGogaHaziza(2025).pdf)).
 
 
-6. Eustache, E. Dagdoug, M., & Haziza, D. (2025+). On high-dimensional variance estimation in survey sampling. Accepted for publication in *Scandinavian Journal of Statistics*. ([Preprint](http://mehdiDagdoug.github.io/files/EustacheDagdougHaziza(2025).pdf)).
+6. Eustache, E. Dagdoug, M., & Haziza, D. (2025). On high-dimensional variance estimation in survey sampling. Accepted for publication in *Scandinavian Journal of Statistics*. ([Preprint](http://mehdiDagdoug.github.io/files/EustacheDagdougHaziza(2025).pdf)).
 
