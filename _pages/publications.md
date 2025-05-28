@@ -9,9 +9,11 @@ author_profile: true
 ### Peer-reviewed publications
 
 
-**6.** Eustache, E. Dagdoug, M., & Haziza, D. (2025). On high-dimensional variance estimation in survey sampling. Accepted for publication in *Scandinavian Journal of Statistics*. ([Preprint](http://mehdiDagdoug.github.io/files/EustacheDagdougHaziza(2025).pdf)).
+**6.** Eustache, E. Dagdoug, M., & Haziza, D. (2025). [On high-dimensional variance estimation in survey sampling](https://onlinelibrary.wiley.com/doi/full/10.1111/sjos.12776). 
+*Scandinavian Journal of Statistics*, 52(2), 924–959 ([Preprint](http://mehdiDagdoug.github.io/files/EustacheDagdougHaziza(2025).pdf)).
 
-**5.**  Dagdoug, M., Goga, C., & Haziza, D. (2025). Statistical inference in the presence of imputed survey data through regression trees and random forests. Accepted for publication in *Scandinavian Journal of Statistics*.([Preprint](http://mehdiDagdoug.github.io/files/DagdougGogaHaziza(2025).pdf)).
+**5.**  Dagdoug, M., Goga, C., & Haziza, D. (2025). [Statistical inference in the presence of imputed survey data through regression trees and random forests](https://onlinelibrary.wiley.com/doi/abs/10.1111/sjos.12777). 
+*Scandinavian Journal of Statistics*, 52(2), 960–998 ([Preprint](http://mehdiDagdoug.github.io/files/DagdougGogaHaziza(2025).pdf)).
 
 **4.** Larbi, K., Tsang, J., Haziza, D. & Dagdoug. M. (2024). Treatment of unit nonresponse in surveys through machine learning methods: an empirical comparison. Accepted for publication in *Survey Methodology*.([Preprint](http://mehdiDagdoug.github.io/files/LarbiTsangHazizaDagdoug(2024).pdf)).
 
