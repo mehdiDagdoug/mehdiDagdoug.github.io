@@ -32,11 +32,7 @@ See the [Publication](https://mehdidagdoug.github.io/publications/) page for det
 
 I am currently teaching MATH 533 (Linear regression and analysis of variance) and MATH 525 (Sampling Theory and Applications) at McGill University. For details, including the course material, please see the McGill myCourses website.
 
-During my Ph.D., I was also a teaching assistant at the University of Bourgogne Franche-Comté for classes in Bachelor's and Master's degrees. 
-I have been teaching classes both in mathematics (research course in statistics, statistical learning, survey sampling, elementary statistics, calculus) and computer sciences (oriented-object programming with C++, an advanced R course, and Python). 
-For some of these courses, I gave lectures, exercises, and coding sessions, while for others, I gave only some parts of the courses. 
-
-For more details about teaching, please see the [Teaching](https://mehdidagdoug.github.io/teaching/) page.
+For more details about teaching, including my previous teaching experience, please see the [Teaching](https://mehdidagdoug.github.io/teaching/) page.
  
 ## Awards and distinctions 
 
