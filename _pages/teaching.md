@@ -31,7 +31,7 @@ The material for these courses can be found on the MyCourses website.
 
 ## Older courses taught
 
-During my PhD, I have been a teaching assistant in bachelor's and master's programs, for both mathematical and computer sciences-oriented classes; the courses are listed below. They were taught for a [master's degree in statistical modeling](https://lmb.univ-fcomte.fr/Master-Mathematiques-Appliquees) as well as a bachelor's degree in science.
+During my PhD, I have served as a teaching assistant in bachelor's and master's programs, for both mathematical and computer science-oriented classes, as listed below. They were taught for a [master's degree in statistical modeling](https://lmb.univ-fcomte.fr/Master-Mathematiques-Appliquees) as well as a bachelor's degree in science.
 
 ### Courses taught in a Master of Science
 
@@ -39,7 +39,7 @@ During my PhD, I have been a teaching assistant in bachelor's and master's progr
 - <ins>Survey sampling</ins>: (Master, 2nd year), taught in 2021-2022, 2021-2022, and 2022-2023. 
 - <ins>Statistical learning</ins>: (Master, 2nd year), taught in 2021-2022.
 - <ins>Python</ins>: (Master, 2nd year), taught in 2021-2022 and 2020-2021.
-- <ins>Oriented-object programming with C++</ins>: (Master, 1st year), taught in 2021-2022, 2020-2021, and 2019-2020.
+- <ins>Object-oriented programming with C++</ins>: (Master, 1st year), taught in 2021-2022, 2020-2021, and 2019-2020.
 - <ins>Advanced R</ins>: (Master, 1st year), taught in 2021-2022, 2020-2021, and 2019/2020.
 
 ### Courses taught in a Bachelor of Science
