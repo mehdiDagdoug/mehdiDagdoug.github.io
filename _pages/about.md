@@ -20,12 +20,12 @@ On July 12, 2022, I defended my PhD thesis entitled [Statistical learning for hi
 
 ## Research interests
 
-My main research interest lies in the intersection between the <ins>theory of survey sampling</ins> with possible <ins>missing data</ins> and <ins>statistical learning</ins>. 
+My main research interest lies at the intersection of the theory of <ins>survey sampling<ins> the treatment of <ins>missing data<ins>, and <ins>statistical learning<ins>.   
 
-More precisely, I am working on developing and analyzing the properties of methodologies for solving estimation problems in survey sampling, with possible nonresponse, using tools from statistical learning. 
-I am particularly interested in cases when the number of covariates is especially large (high-dimensional scenarios). 
 
-More recently, I also began working on <ins>resampling methods</ins> (e.g., cross-validation, jackknife, bootstrap) and their applications for <ins>model selection</ins> in survey sampling and <ins>time series</ins>. See the [Publication](https://mehdidagdoug.github.io/publications/) for details about my publications.
+More precisely, I am working on developing rigorous inference methods for survey sampling, particularly in the presence of nonresponse. To address complex estimation problems, I rely on tools from statistical learning and aim to study the theoretical properties of the resulting procedures. A central focus of this work is on high-dimensional settings, where the number of auxiliary variables is non-negligible relative to the sample size.
+
+See the [Publication](https://mehdidagdoug.github.io/publications/) page for details about my publications.
 
 
 ## Teaching
