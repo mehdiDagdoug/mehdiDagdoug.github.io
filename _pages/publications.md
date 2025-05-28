@@ -35,7 +35,7 @@ Accepted for publication in *Survey Methodology*.([Preprint](http://mehdiDagdoug
 In *Proceedings of the Statistics Canada International Symposium Series*. ([Preprint](http://mehdiDagdoug.github.io/files/ProceedingsSymposium(25).pdf)).
 
 **1.** Dagdoug, M., Goga, C. & Haziza, D. (2022). Arbres et forêts aléatoires : d’une approche par modélisation assistée au traitement de la nonréponse. <be>
-In *Proceedings of the Statistics Canada International Symposium Series*. ([Preprint](http://mehdiDagdoug.github.io/files/jms2022.pdf)).
+In *Actes de la 14e édition des Journées de méthodologie statistique de l'Insee (JMS 2022)*. ([Preprint](http://mehdiDagdoug.github.io/files/jms2022.pdf)).
 
 
 
