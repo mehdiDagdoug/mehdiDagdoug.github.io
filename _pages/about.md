@@ -20,7 +20,7 @@ On July 12, 2022, I defended my Ph.D. thesis, entitled [Statistical learning for
 
 ## Research Interests
 
-My main research interest lies at the intersection of the theory of <ins>survey sampling<ins> the treatment of <ins>missing data<ins>, and <ins>statistical learning<ins>.   
+My main research interest lies at the intersection of the theory of </u>survey sampling</u>, the treatment of </u>missing data</u>, and </u>statistical learning</u>.   
 
 
 More precisely, I am working on developing rigorous inference methods for survey sampling, particularly in the presence of nonresponse. To address complex estimation problems, I rely on tools from statistical learning and aim to study the theoretical properties of the resulting procedures. A central focus of this work is on high-dimensional settings, where the number of auxiliary variables is non-negligible relative to the sample size.
@@ -41,7 +41,7 @@ In 2022, I had the honor of being named the laureate of the inaugural Jean-Claud
 ## Grants and Funding
 My current research is supported by grants from NSERC (Discovery Grant) and Mitacs (Accelerate Proposal).
 
-During my Ph.D., my work was funded by the Region of Franche-Comté and [Médiamétrie](https://www.mediametrie.fr/en),the French company specializing in audience measurement for television, radio, and the internet.
+During my Ph.D., my work was funded by the Region of Franche-Comté and [Médiamétrie](https://www.mediametrie.fr/en), the French company specializing in audience measurement for television, radio, and the internet.
 
 ## Curriculum Vitæ
 An English version of my curriculum vitæ is available [here](http://mehdiDagdoug.github.io/files/CV_Dagdoug.pdf).
