@@ -16,7 +16,7 @@ author_profile: true
 *Scandinavian Journal of Statistics*, 52(2), 960–998 ([Preprint](http://mehdiDagdoug.github.io/files/DagdougGogaHaziza(2025).pdf)).
 
 **4.** Larbi, K., Tsang, J., Haziza, D. & Dagdoug. M. (2024). Treatment of unit nonresponse in surveys through machine learning methods: an empirical comparison. <br>
-Accepted for publication in *Survey Methodology*.([Preprint](http://mehdiDagdoug.github.io/files/LarbiTsangHazizaDagdoug(2024).pdf)).
+Accepted for publication in *Survey Methodology* ([Preprint](http://mehdiDagdoug.github.io/files/LarbiTsangHazizaDagdoug(2024).pdf)).
 
 **3.** Dagdoug, M., Goga, C. & Haziza, D. (2023). [Model-assisted estimation in high-dimensional settings for survey data](https://www.tandfonline.com/doi/abs/10.1080/02664763.2022.2047905). <br>
 *Journal of Applied Statistics*, 50(3), 761-785 ([Preprint](http://mehdiDagdoug.github.io/files/HD_DagdougGogaHaziza.pdf), [Supplementary materials](http://mehdiDagdoug.github.io/files/SM_HD_DagdougGogaHaziza.pdf)).
