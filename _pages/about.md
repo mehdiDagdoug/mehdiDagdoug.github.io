@@ -10,13 +10,13 @@ redirect_from:
 
 
 
-I am an Assistant Professor in the Department of Mathematics and Statistics at McGill University. My office is in Burnside Hall (805, rue Sherbrooke Ouest) on the 12th floor, room 1230.
+I am an Assistant Professor in the Department of Mathematics and Statistics at McGill University. My office is located in Burnside Hall (805, rue Sherbrooke Ouest), 12th floor, room 1230.
 
-Before that, I was a Postdoctoral fellow at the University of Ottawa in the Department of Mathematics and Statistics, working under the supervision of [David Haziza](http://www.davidhaziza.com).
+Previously, I was a Postdoctoral Fellow in the Department of Mathematics and Statistics at the University of Ottawa, where I worked under the supervision of [David Haziza](http://www.davidhaziza.com).
 
-I did a Ph.D. in Mathematics in the Laboratory of Mathematics of Besançon at the Université de Bourgogne Franche-Comté, working under the supervision of [Camelia Goga](http://goga.perso.math.cnrs.fr) from the Université de Bourgogne Franche-Comté and David Haziza from the University of Ottawa. 
+I completed a Ph.D. in Mathematics at the Laboratory of Mathematics of Besançon at the Université de Bourgogne Franche-Comté. My doctoral work was supervised by [Camelia Goga](http://goga.perso.math.cnrs.fr) (Université de Bourgogne Franche-Comté) and David Haziza (University of Ottawa). 
 
-On July 12, 2022, I defended my PhD thesis entitled [Statistical learning for high-dimensional sampling](http://mehdiDagdoug.github.io/files/these.pdf).
+On July 12, 2022, I defended my Ph.D. thesis, entitled [Statistical learning for high-dimensional sampling](http://mehdiDagdoug.github.io/files/these.pdf).
 
 ## Research interests
 
@@ -30,18 +30,18 @@ See the [Publication](https://mehdidagdoug.github.io/publications/) page for det
 
 ## Teaching
 
-I am currently teaching MATH 533 (Linear regression and analysis of variance) and MATH 525 (Sampling Theory and Applications) at McGill University. For details, including the course material, please see the McGill myCourses website.
+I am currently teaching MATH 533 (Linear regression and analysis of variance) and MATH 525 (Sampling Theory and Applications) at McGill University. For course materials and further details, please visit the McGill myCourses website.
 
-For more details about teaching, including my previous teaching experience, please see the [Teaching](https://mehdidagdoug.github.io/teaching/) page.
+For more information about my teaching, including my previous teaching experience, please visit the [Teaching](https://mehdidagdoug.github.io/teaching/) page.
  
 ## Awards and distinctions 
 
-In 2022, I had the honor of being named Laureate of the first edition of the Jean-Claude Deville Prize of the French Statistical Society. See the Jean-Claude Deville prize [webpage](https://www.sfds.asso.fr/fr/enquetes_modeles_et_applications/groupe_enquetes_modeles_et_applications/683-bourses_et_prix/) for details.
+In 2022, I had the honor of being named the laureate of the inaugural Jean-Claude Deville Prize awarded by the French Statistical Society. For more information, please visit the prize's [webpage](https://www.sfds.asso.fr/fr/enquetes_modeles_et_applications/groupe_enquetes_modeles_et_applications/683-bourses_et_prix/).
 
 ## Grants and funding
-I am currently supported by grants from NSERC (Discovery Grants) and Mitacs (Accelerate Proposal). 
+My current research is supported by grants from NSERC (Discovery Grant) and Mitacs (Accelerate Proposal).
 
-During my Ph.D., my research was supported by grants from the region of Franche-Comté and [Médiamétrie](https://www.mediametrie.fr/en), the French audience measurement company for TV, radio, and internet. 
+During my Ph.D., my work was funded by the Region of Franche-Comté and [Médiamétrie](https://www.mediametrie.fr/en),the French company specializing in audience measurement for television, radio, and the internet.
 
 ## Curriculum vitæ
-An English version of my curriculum vitæ can be found [here](http://mehdiDagdoug.github.io/files/CV_Dagdoug.pdf).
+An English version of my curriculum vitæ is available [here](http://mehdiDagdoug.github.io/files/CV_Dagdoug.pdf).
