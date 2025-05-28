@@ -25,7 +25,7 @@ My main research interest lies at the intersection of the theory of <ins>survey 
 
 More precisely, I am working on developing rigorous inference methods for survey sampling, particularly in the presence of nonresponse. To address complex estimation problems, I rely on tools from statistical learning and aim to study the theoretical properties of the resulting procedures. A central focus of this work is on high-dimensional settings, where the number of auxiliary variables is non-negligible relative to the sample size.
 
-See the [Publication](https://mehdidagdoug.github.io/publications/) page for details about my publications.
+Please visit the [Publications](https://mehdidagdoug.github.io/publications/) webpage for details.
 
 
 ## Teaching
