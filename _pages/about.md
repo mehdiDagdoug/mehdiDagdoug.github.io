@@ -20,7 +20,7 @@ On July 12, 2022, I defended my Ph.D. thesis, entitled [Statistical learning for
 
 ## Research Interests
 
-My main research interest lies at the intersection of the theory of <ins>survey sampling<ins>, the treatment of <ins>missing data<ins>, and <ins>statistical learning<ins>.   
+My main research interest lies at the intersection of the theory of <ins>survey sampling</ins>, the treatment of <ins>missing data</ins>, and <ins>statistical learning</ins>.
 
 
 More precisely, I am working on developing rigorous inference methods for survey sampling, particularly in the presence of nonresponse. To address complex estimation problems, I rely on tools from statistical learning and aim to study the theoretical properties of the resulting procedures. A central focus of this work is on high-dimensional settings, where the number of auxiliary variables is non-negligible relative to the sample size.
