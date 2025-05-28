@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-### Peer-reviewed publications
+### Peer-reviewed Publications
 
 
 **6.** Eustache, E. Dagdoug, M., & Haziza, D. (2025). [On high-dimensional variance estimation in survey sampling](https://onlinelibrary.wiley.com/doi/full/10.1111/sjos.12776). <br>
