@@ -8,6 +8,7 @@ author_profile: true
 
 ### Peer-reviewed Publications
 
+**7.** Dagdoug, M., C. Dombry & Duchamps, J-J. (2025). An RKHS Perspective on Tree Ensembles. Submitted. ([Preprint]([https://arxiv.org/pdf/2512.00397](https://arxiv.org/pdf/2512.00397))).
 
 **6.** Eustache, E. Dagdoug, M., & Haziza, D. (2025). [On high-dimensional variance estimation in survey sampling](https://onlinelibrary.wiley.com/doi/full/10.1111/sjos.12776). <br>
 *Scandinavian Journal of Statistics*, 52(2), 924–959 ([Preprint](http://mehdiDagdoug.github.io/files/EustacheDagdougHaziza(2025).pdf)).
