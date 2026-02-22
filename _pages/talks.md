@@ -5,7 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 
+### Plenary conferences
+- **2 - 5 September 2025**:<ins> Dagdoug, M.</ins>, Opening Plenary Lecture of the Annual Congress of the German Statistical Society, Wiesbaden, Germany. *Estimation of Uncertainty*.
+- **21 - 24 March 2023**:<ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D., 12e Colloque International Francophone sur les Sondages, Aubervilliers, France. *Model-assisted estimation through random forests in finite population sampling*.  
+
 ### Invited conferences
+- **2 - 7 August 2025**: <ins> Dagdoug, M.</ins>, & Haziza, D., EcoSta 2025, Tokyo, Japan. *Double machine learning for nonresponse in surveys*. 
+- **2 - 7 August 2025**: <ins> Dagdoug, M.</ins>, & Haziza, D., 2025 Joint Statistical Meetings, Nashville, USA. *On the use of machine learning methods for the treatment of unit nonresponse in surveys*. 
+- **6 - 9 June 2025**: <ins> Dagdoug, M.</ins>, & Haziza, D., 2025 CMS Summer Meeting, Québec, Canada. *Double Machine Learning for Nonresponse in Surveys*. 
 - **9 December 2024**: <ins> Dagdoug, M.</ins>, Eustache, E. & Haziza, D., Bank of Canada Workshop: Understanding and Correcting for Non-response Bias, Ottawa, Canada. *High-dimensional variance estimation for model-assisted and imputed estimators*. 
 - **8 - 10 July 2024**: <ins> Dagdoug, M.</ins>, CANSSI-CRT Workshop on Modern Methods in Survey Sampling, Ottawa, Canada. *Variance estimation for survey estimators based on statistical learning models*. 
 - **17 - 20 June 2024**: <ins> Dagdoug, M.</ins>, Eustache, E. & Haziza, D., SIS 2024, Bari, Italy. *High-dimensional variance estimation in survey sampling*. 
@@ -13,7 +20,6 @@ author_profile: true
 - **2 - 5 June 2024**: <ins> Dagdoug, M.</ins>, Eustache, E. & Haziza, D., 2024 SSC Annual Meeting, St. John's, Canada. *Variance estimation for survey estimators based on statistical learning models*. 
 - **18 April 2024**:<ins> Dagdoug, M.</ins>, Séminaire en ligne sur les sondages, France (online). *Apprentissage statistique pour l’échantillonnage en population finie*.  
 - **16 - 18 December 2023**:<ins> Dagdoug, M.</ins>, & Haziza, D., 16th International Conference of the ERCIM WG on Computational and Methodological Statistics, Berlin, Germany. *Variance estimation for survey estimators based on statistical learning procedures*.  
-- **21 - 24 March 2023**:<ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D., 12e Colloque International Francophone sur les Sondages, Aubervilliers, France. *Model-assisted estimation through random forests in finite population sampling*.  
 - **5 - 8 July 2022**: <ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D., Summer School on Modern Methods in Survey Sampling, Ottawa, Canada. *Random forests imputation in surveys*.
 - **30 - 3 May-June 2022**: <ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D., Congrès annuel 2021 de la Société de Statistique du Canada, Ottawa, Canada (Virtual). *Model-assisted estimation through random forests in finite population sampling*. 
 - **8 - 10 June 2022**: <ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D., ITACOSM2022, Perugia, Italy. *High-dimensional convergence for model-assisted estimators*. 
@@ -37,6 +43,7 @@ author_profile: true
 - **12 April 2019:** <ins> Dagdoug, M.</ins>, Sixième Journée des Jeunes Chercheurs en Mathématiques de l’UBFC, Besançon, France. *Imputation and calibration reweighting for surveys with missing data*.
 
 ### Invited seminars and other events
+- **7 March 2025:** <ins> Dagdoug, M.</ins>, Statistics seminar of the University of Winnipeg, Winnipeg, Canada. *Statistical learning for finite population sampling: some challenges*.
 - **16 November 2024:** <ins> Dagdoug, M.</ins>, Séminaire de Statistique, Université de Bourgogone Franche-Comté, Besançon, France. *Statistical learning for finite population sampling: some challenges*.
 - **27 November 2023:** <ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D., Séminaire de Statistique, Université de Sherbrooke, Sherbrooke, Canada. *Inference in surveys with random forest imputed estimators*.
 - **18 September 2023:** <ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D., Centre de Recherches en Mathématiques (CRM), Applied Mathematics Seminars, Montreal, Canada. *Statistical inference in surveys with random forest imputed estimators*.
