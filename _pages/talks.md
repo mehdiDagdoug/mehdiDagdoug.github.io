@@ -10,7 +10,7 @@ author_profile: true
 - **21 - 24 March 2023**:<ins> Dagdoug, M.</ins>, Goga, C. & Haziza, D., 12e Colloque International Francophone sur les Sondages, Aubervilliers, France. *Model-assisted estimation through random forests in finite population sampling*.  
 
 ### Invited conferences
-- **2 - 7 August 2025**: <ins> Dagdoug, M.</ins>, & Haziza, D., EcoSta 2025, Tokyo, Japan. *Double machine learning for nonresponse in surveys*. 
+- **21 - 23 August 2025**: <ins> Dagdoug, M.</ins>, & Haziza, D., EcoSta 2025, Tokyo, Japan. *Double machine learning for nonresponse in surveys*. 
 - **2 - 7 August 2025**: <ins> Dagdoug, M.</ins>, & Haziza, D., 2025 Joint Statistical Meetings, Nashville, USA. *On the use of machine learning methods for the treatment of unit nonresponse in surveys*. 
 - **6 - 9 June 2025**: <ins> Dagdoug, M.</ins>, & Haziza, D., 2025 CMS Summer Meeting, Québec, Canada. *Double Machine Learning for Nonresponse in Surveys*. 
 - **9 December 2024**: <ins> Dagdoug, M.</ins>, Eustache, E. & Haziza, D., Bank of Canada Workshop: Understanding and Correcting for Non-response Bias, Ottawa, Canada. *High-dimensional variance estimation for model-assisted and imputed estimators*. 
