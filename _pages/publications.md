@@ -32,11 +32,15 @@ Accepted for publication in *Survey Methodology* ([Preprint](http://mehdiDagdoug
 
 ### Conference Proceedings
 
-**2.** Dagdoug, M., & Haziza, D. (2025). [Statistical Inference for a Finite Population Mean with Machine Learning-Based Imputation for Missing Survey Data](http://mehdiDagdoug.github.io/files/ProceedingsSymposium(25).pdf). <br>
+**3.** Dagdoug, M., & Haziza, D. (2025). [Statistical Inference for a Finite Population Mean with Machine Learning-Based Imputation for Missing Survey Data](http://mehdiDagdoug.github.io/files/ProceedingsSymposium(25).pdf). <br>
 In *Proceedings of the Statistics Canada International Symposium Series*. 
 
-**1.** Dagdoug, M., Goga, C. & Haziza, D. (2022). [Arbres et forêts aléatoires : d’une approche par modélisation assistée au traitement de la nonréponse](http://mehdiDagdoug.github.io/files/jms2022.pdf). <br>
+**2.** Dagdoug, M., Goga, C. & Haziza, D. (2022). [Arbres et forêts aléatoires : d’une approche par modélisation assistée au traitement de la nonréponse](http://mehdiDagdoug.github.io/files/jms2022.pdf). <br>
 In *Actes de la 14e édition des Journées de méthodologie statistique de l'Insee (JMS 2022)*. 
+
+**1.** Larbi, K., Haziza, D. & Dagdoug, M. (2022). [Treatment of unit nonresponse in surveys through machine learning methods : an empirical comparison.](https://mehdidagdoug.github.io/files/Larbi_Haziza_Dagdoug22.pdf). <br>
+In *Actes de la 14e édition des Journées de méthodologie statistique de l'Insee (JMS 2022)*. 
+
 
 
 
