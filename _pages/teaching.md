@@ -12,6 +12,7 @@ output:
 
 I am currently the instructor for the following courses at McGill University:
 
+- [MATH 324: Statistics](https://coursecatalogue.mcgill.ca/courses/math-324/).
 - [MATH 533: Regression And Analysis of Variance](https://www.mcgill.ca/study/2023-2024/courses/math-533).
 - [MATH 525: Sampling Theory and Applications](https://www.mcgill.ca/study/2023-2024/courses/math-525).
 
@@ -24,8 +25,7 @@ The material for these courses can be found on the MyCourses website.
 ## Science popularization and interactions with secondary school
 - Presentation for "Soup and Science" entitled *Missing data treatment in surveys*".
 - Roundtable for "Undergraduate Research Panel" short talk entitled *Missing data treatment in surveys*".
-- Conference for the final of "Rallye de mathématique des collégiens 2022" entitled *What is survey sampling?*.
-- Conference for the final of "Rallye de mathématique des lycéens 2022" entitled *Titanic, between a Maritime Expedition and a Walk in Random Forests*.
+- Conference for the final of "Rallye de mathématiques des lycéens 2022" entitled *Titanic, between a Maritime Expedition and a Walk in Random Forests*.
 - Creation of a science popularization workshop for high school students entitled *Titanic, between a Maritime Expedition and a Walk in Random Forests*.
 
 
