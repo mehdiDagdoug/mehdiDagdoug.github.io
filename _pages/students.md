@@ -5,12 +5,17 @@ permalink: /students/
 author_profile: true
 ---
 
+**Postdoctoral researchers:**
+
+- <ins>Caleb Leedy</ins>: 2025 - present. Joint supervision with David Haziza. University of Ottawa.
+
 **Ph.D. Students:**
 
-- <ins>Kalil Bouhadra</ins>: 2025 - present. Joint supervision with David Haziza. McGill University.
+- <ins>Kalil Bouhadra</ins>: 2025 - present. McGill University.
 - <ins>Ziming An </ins>: 2023 - present. Joint supervision with David Haziza. University of Ottawa.
 
 **M. Sc. Students:**
+
 - <ins>Xiao Qi Li</ins>: 2025 - present. McGill University.
 - <ins>Mila Pourali</ins>: 2025 - present. McGill University.
 - <ins>Evelyn Hubbard</ins>: 2024 - present. Joint supervision with Abbas Khalili. McGill University.
