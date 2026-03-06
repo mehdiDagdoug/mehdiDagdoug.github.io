@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 
-### Peer-reviewed Publications
+### Publications
+
+**8.** An, Z., Dagdoug, M., & Haziza, D. (2026). Variable Selection for Linear Regression Imputation in Surveys. Submitted. ([Preprint](https://arxiv.org/abs/2603.04576)).
 
 **7.** Dagdoug, M., C. Dombry & Duchamps, J-J. (2025). An RKHS Perspective on Tree Ensembles. Submitted. ([Preprint](https://arxiv.org/pdf/2512.00397)).
 
