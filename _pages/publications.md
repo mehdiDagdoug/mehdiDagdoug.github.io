@@ -8,6 +8,8 @@ author_profile: true
 
 ### Publications
 
+**9.** Dagdoug, M., & Haziza, D. (2026). Machine learning methods for finite population parameter estimation in survey sampling. Submitted. ([Preprint](https://arxiv.org/pdf/2604.01160)).
+
 **8.** An, Z., Dagdoug, M., & Haziza, D. (2026). Variable Selection for Linear Regression Imputation in Surveys. Submitted. ([Preprint](https://arxiv.org/abs/2603.04576)).
 
 **7.** Dagdoug, M., C. Dombry & Duchamps, J-J. (2025). An RKHS Perspective on Tree Ensembles. Submitted. ([Preprint](https://arxiv.org/pdf/2512.00397)).
