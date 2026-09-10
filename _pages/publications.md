@@ -8,6 +8,8 @@ author_profile: true
 
 ### Publications
 
+**11.** An, Z., Dagdoug, M., Haziza, D. & Tillé, Y. (2026) Agnostic Model-Assisted Estimation with Machine Learning for Survey Data. Submitted. ([Preprint](http://mehdiDagdoug.github.io/files/AnDagdougHazizaTillé(2026).pdf)).
+
 **10.** Bouhadra, K. & Dagdoug, M. (2026) High-Dimensional Variance Estimation for the Generalized Regression Estimator. To appear in *The Survey Statistician*. ([Preprint](http://mehdiDagdoug.github.io/files/BouhadraDagdoug(26).pdf)).
 
 **9.** Dagdoug, M., & Haziza, D. (2026). Machine learning methods for finite population parameter estimation in survey sampling. Submitted. ([Preprint](https://arxiv.org/pdf/2604.01160)).
