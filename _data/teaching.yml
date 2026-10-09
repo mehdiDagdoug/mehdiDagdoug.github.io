@@ -1,0 +1,43 @@
+# Teaching.
+# current: the courses you teach this academic year (also shown on the homepage).
+# At the end of the year, move them into the McGill list under "past".
+
+current:
+  institution: McGill University
+  note: Course material is available on myCourses.
+  courses:
+    - {code: MATH 598, title: Asymptotic Statistics, subtitle: Topics in Probability and Statistics, term: Fall 2026, url: "https://coursecatalogue.mcgill.ca/courses/math-598/"}
+    - {code: MATH 324, title: Statistics, term: Winter 2027, url: "https://coursecatalogue.mcgill.ca/courses/math-324/"}
+
+past:
+  - group: McGill University
+    courses:
+      - {title: MATH 324 · Statistics, when: Winter 2026}
+      - {title: MATH 533 · Regression and Analysis of Variance, when: "Fall 2023, Fall 2024, Fall 2025"}
+      - {title: MATH 525 · Sampling Theory and Applications, when: "Winter 2024, Winter 2025, Winter 2026"}
+
+  - group: Invited courses
+    courses:
+      - {title: "Research course in statistics: matrix completion and missing data", level: "Master 2, 15 hours", where: Université de Franche-Comté, when: December 2024}
+      - {title: "Research course in statistics: matrix completion", level: "Master 2, 15 hours", where: Université de Franche-Comté, when: December 2022}
+
+  - group: Université de Franche-Comté
+    intro: >-
+      During my Ph.D., I served as a teaching assistant in bachelor’s and master’s programs, for both
+      mathematical and computer science-oriented classes, including a
+      master’s degree in statistical modeling.
+    courses:
+      - {title: Survey sampling, level: Master 2, when: "2020–2023"}
+      - {title: Statistical learning, level: Master 2, when: "2021"}
+      - {title: Python, level: Master 2, when: "2020–2022"}
+      - {title: Object-oriented programming, level: Master 1, when: "2019–2021"}
+      - {title: Advanced R, level: Master 1, when: "2019–2021"}
+      - {title: Elementary statistics, level: "Bachelor, 3rd year", when: "2022"}
+      - {title: Mathematical tools, level: "Bachelor of Biology, 1st year", when: "2019–2021"}
+
+outreach:
+  - "“Missing data treatment in surveys”, presentation for *Soup and Science*, Montréal, February 2024."
+  - "“Treatment of missing data in surveys”, short talk introducing research to undergraduates, *Undergraduate Research Panel*, Montréal, January 2024."
+  - "“Les sondages : comment ça marche ?”, talk for the final of the *Rallye mathématiques des collégiens*, Dijon, June 2022."
+  - "“Titanic, entre expédition maritime et promenade en forêts aléatoires”, talk for the final of the *Rallye mathématiques des lycéens*, Dijon, June 2022."
+  - "“Titanic, entre expédition maritime et promenade en forêts aléatoires”, popularization workshop, *Journée de la recherche en mathématiques*, Besançon, November 2021."

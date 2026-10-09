@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+    <header class="page-head">
+      <h1>Talks</h1>
+    </header>
+
+    {% for s in talks %}
+    <section class="talk-section" id="{{ s.section | slug }}">
+      <h2 class="section-title">{{ s.section }}</h2>
+      <ol class="talk-list">
+        {% for t in s.talks %}
+        {% set event = t.event | replace("Short course, ", "") if s.section == "Short courses" else t.event %}
+        <li class="talk">
+          <span class="talk-num">{{ t._num }}.</span>
+          <span class="talk-date">{{ t.date | month_year }}</span>
+          <div>
+            <span class="talk-title">{{ t.title }}</span>
+            <span class="talk-event">{{ event | end_period }}</span>
+            {% if t.with or t.note %}<span class="talk-with">{% if t.with %}Joint work with {{ t.with | join_names }}.{% endif %}{% if t.with and t.note %} {% endif %}{% if t.note %}{{ t.note | end_period }}{% endif %}</span>{% endif %}
+          </div>
+        </li>
+        {% endfor %}
+      </ol>
+    </section>
+    {% endfor %}
+{% endblock %}

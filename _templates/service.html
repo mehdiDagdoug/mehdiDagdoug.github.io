@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block content %}
+    <header class="page-head">
+      <h1>Service</h1>
+    </header>
+
+    {% for when, heading in [("current", "Current"), ("past", "Past")] %}
+    <section>
+      <h2 class="section-title ruled">{{ heading }}</h2>
+      {% for label, items in service[when] %}
+      <h3 class="subsection">{{ label }}</h3>
+      <ol class="dated-list">
+        {% for s in items %}
+        <li>
+          <span class="dated-when">{{ s | period }}</span>
+          <div>
+            <span class="dated-title">{{ s.role | md }}</span>
+            <span class="dated-sub">{{ s.org | md | end_period }}</span>
+          </div>
+        </li>
+        {% endfor %}
+      </ol>
+      {% endfor %}
+    </section>
+    {% endfor %}
+
+{% endblock %}

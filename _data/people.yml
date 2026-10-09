@@ -1,0 +1,13 @@
+# Colleagues. Their names become links to these pages wherever they appear on the site:
+# author lists, talks, co-supervisors, service and the text on the homepage.
+# name: as written in full; short: as written in author lists.
+
+- {name: David Haziza, short: D. Haziza, url: "http://www.davidhaziza.com"}
+- {name: Camelia Goga, short: C. Goga, url: "http://goga.perso.math.cnrs.fr"}
+- {name: Clément Dombry, short: C. Dombry, url: "https://cdombry.pages.math.cnrs.fr"}
+- {name: Tim Hoheisel, short: T. Hoheisel, url: "https://www.mcgill.ca/mathstat/tim-hoheisel"}
+- {name: Abbas Khalili, short: A. Khalili, url: "https://www.mcgill.ca/mathstat/abbas-khalili"}
+- {name: Ameer Dharamshi, short: A. Dharamshi, url: "https://ameerd.github.io"}
+- {name: Yves Tillé, short: Y. Tillé, url: "https://www.unine.ch/biographie/yves-tille"}
+- {name: Jean-Jil Duchamps, short: J.-J. Duchamps, url: "https://duchamps.perso.math.cnrs.fr/"}
+- {name: Hui Shen, short: H. Shen, url: "https://sites.google.com/view/huishenstats/home"}

@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block content %}
+    <header class="page-head">
+      <h1>Students</h1>
+    </header>
+
+    {% for when, heading in [("current", "Current"), ("past", "Former students and visitors")] %}
+    <section>
+      <h2 class="section-title ruled">{{ heading }}</h2>
+      {% for label, people in people[when] %}
+      <h3 class="subsection">{{ label }}</h3>
+      <ul class="student-grid">
+        {% for s in people %}
+        <li class="card student">
+          <span class="student-name">{{ s.name }}</span>
+          <span class="student-years">{{ s | period_open }}</span>
+          {% if s.program %}<span class="student-meta">{{ s.program | end_period }}</span>{% endif %}
+          {% if s.institution %}<span class="student-meta">{{ s.institution | end_period }}</span>{% endif %}
+          {% if s.with %}<span class="student-meta">Co-supervised with {{ s.with | person }}.</span>{% endif %}
+          {% if s.note %}<span class="student-meta">{{ s.note | end_period }}</span>{% endif %}
+          {% if s.thesis %}<span class="student-topic"><span class="label">Thesis:</span> {{ s.thesis | end_period }}</span>{% endif %}
+          {% if s.topic %}<span class="student-topic"><span class="label">Topic:</span> {{ s.topic | end_period }}</span>{% endif %}
+          {% if s.now %}<span class="student-now">Now: {{ s.now | end_period }}</span>{% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+      {% endfor %}
+    </section>
+    {% endfor %}
+{% endblock %}

@@ -1,0 +1,29 @@
+# Service.
+# start / end: YYYY-MM, or just YYYY (a bare year counts as already ended). Use  end: present  for ongoing roles.
+# Roles move from "Current" to "Past" automatically once their end date has passed.
+# kind: admin (administrative responsibilities), organization (scientific organization) or editorial
+
+roles:
+  - {kind: admin, start: 2026-09, end: present, role: "Committee member, Committee of Graduate Affairs", org: McGill University}
+  - {kind: admin, start: 2026-07, end: present, role: "Secretary, Data Science and Analytics Section", org: Statistical Society of Canada}
+  - {kind: admin, start: 2026-07, end: present, role: "Member, Pierre Robillard Award Committee", org: Statistical Society of Canada}
+  - {kind: admin, start: 2025-10, end: 2025-10, role: "Committee member, Fellowships Evaluation Committee for the 2025 NSERC Canada Graduate Research Scholarships – Doctoral (CGRS D)", org: NSERC}
+  - {kind: admin, start: 2025-09, end: 2028-06, role: "Member, New Investigators Committee", org: Statistical Society of Canada}
+  - {kind: admin, start: 2025-09, end: 2026-02, role: "Committee member, Statistics Search Committee", org: McGill University}
+  - {kind: admin, start: 2025-03, end: 2025-03, role: "Committee member, NSERC CGS Masters Selection Committee 2025–2026", org: NSERC}
+  - {kind: admin, start: 2024-11, end: 2025-02, role: "Evaluation committee member, Ph.D. grants, category Probability and Statistics", org: FRQNT}
+  - {kind: admin, start: 2024-07, end: 2027-06, role: "Committee member, Student Travel Grants Committee", org: Statistical Society of Canada}
+  - {kind: admin, start: 2024-03, end: 2024-03, role: "Committee member, NSERC USRA and SURA Summer Research Awards Ranking Committee", org: McGill University}
+  - {kind: admin, start: 2023-09, end: 2023-12, role: "Committee member, Statistics Search Committee", org: McGill University}
+  - {kind: admin, start: 2023-08, end: 2026-08, role: "Committee member, Committee of Undergraduate Affairs", org: McGill University}
+  - {kind: admin, start: 2021-02, end: 2022-10, role: "Elected member, representing Ph.D. students of the Besançon Mathematics Laboratory", org: "[BFC-Maths Federation](https://bfcm.math.cnrs.fr)"}
+  - {kind: admin, start: 2020-05, end: 2022-10, role: "Elected member, representing Ph.D. students in mathematics", org: "[Carnot Pasteur Doctoral School](https://cp.ubfc.fr)"}
+
+  - {kind: organization, start: 2025-02, end: 2026-05, role: "Member of the scientific committee", org: "[14e Colloque Francophone International sur les Sondages](https://sondages2026.sciencesconf.org/), Vannes"}
+  - {kind: organization, start: 2023-08, end: present, role: "Organizer of the [McGill Statistics Seminar](https://mcgillstat.github.io); co-organized with Ameer Dharamshi since 2026–2027", org: McGill University}
+  - {kind: organization, start: 2021, end: 2021, role: "Member of the organizing committee and webmaster", org: "[Forum des Jeunes Mathématicien·ne·s 2021](https://jmb2021.sciencesconf.org)"}
+  - {kind: organization, start: 2020, end: 2022, role: "Co-organizer, with Valentin Petit (LmB), of the Ph.D. seminar", org: Laboratoire de Mathématiques de Besançon}
+  - {kind: organization, start: 2022, end: 2022, role: "Co-organizer, with Valentin Petit (LmB), of the Septième Journée des Jeunes Chercheuses et des Jeunes Chercheurs en Mathématiques de l’UBFC", org: Université de Bourgogne Franche-Comté}
+
+  - {kind: editorial, start: 2025-09, end: present, role: "Editor of the “Early Career Survey Statistician” section", org: The Survey Statistician}
+

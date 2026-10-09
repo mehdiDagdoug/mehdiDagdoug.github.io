@@ -1,0 +1,192 @@
+# Talks — newest first within each section. Generated from the CV, then edited by hand.
+# date: first day of the event (YYYY-MM-DD), or just the year; only month and year are shown.
+
+- section: Plenary lectures
+  talks:
+    - date: 2025-09-02
+      title: "Estimation of uncertainty"
+      event: "Opening plenary address, Annual Congress of the German Statistical Society, Wiesbaden, Germany"
+    - date: 2023-03-21
+      title: "Model-assisted estimation through random forests in finite population sampling"
+      event: "12e Colloque International Francophone sur les Sondages, Aubervilliers, France"
+      with: [C. Goga, D. Haziza]
+
+- section: Short courses
+  talks:
+    - date: 2026-08-01
+      title: "Finite-population inference with ML-based predictions"
+      event: "Short course, 2026 Joint Statistical Meetings, Boston, USA"
+      with: [D. Haziza]
+    - date: 2026-05-31
+      title: "Finite-population inference with ML-based predictions"
+      event: "Short course, 2026 SSC Annual Meeting, Hamilton, Canada"
+      with: [D. Haziza]
+    - date: 2026-05-19
+      title: "Finite-population inference with ML-based predictions"
+      event: "Short course, 14e Colloque Francophone International sur les Sondages, Vannes, France"
+      with: [D. Haziza]
+
+- section: Invited conference talks
+  talks:
+    - date: 2026-08-08
+      title: "Agnostic model-assisted estimation in finite population"
+      event: "EcoSta 2026, Kyoto, Japan"
+      with: [Z. An, D. Haziza, Y. Tillé]
+    - date: 2026-06-08
+      title: "Machine learning for the treatment of nonresponse in surveys"
+      event: "IVADO 2nd Workshop: Uncertainty in AI, Montréal, Canada"
+      with: [D. Haziza]
+    - date: 2026-05-31
+      title: "Machine learning for the treatment of nonresponse in surveys"
+      event: "2026 SSC Annual Meeting, Hamilton, Canada"
+      with: [D. Haziza]
+    - date: 2025-08-21
+      title: "Double machine learning for nonresponse in surveys"
+      event: "EcoSta 2025, Tokyo, Japan"
+      with: [D. Haziza]
+    - date: 2025-08-02
+      title: "On the use of machine learning methods for the treatment of unit nonresponse in surveys"
+      event: "2025 Joint Statistical Meetings, Nashville, USA"
+      with: [D. Haziza]
+    - date: 2025-06-06
+      title: "Double machine learning for nonresponse in surveys"
+      event: "2025 CMS Summer Meeting, Québec, Canada"
+      with: [D. Haziza]
+    - date: 2024-12-09
+      title: "High-dimensional variance estimation for model-assisted and imputed estimators"
+      event: "Bank of Canada Workshop: Understanding and Correcting for Non-response Bias, Ottawa, Canada"
+    - date: 2024-07-08
+      title: "Variance estimation for survey estimators based on statistical learning models"
+      event: "CANSSI-CRT Workshop on Modern Methods in Survey Sampling, Ottawa, Canada"
+    - date: 2024-06-17
+      title: "High-dimensional variance estimation in survey sampling"
+      event: "SIS 2024, Bari, Italy"
+      with: [E. Eustache, D. Haziza]
+    - date: 2024-06-07
+      title: "Variance estimation for survey estimators based on statistical learning models"
+      event: "ICSA-Canada Chapter 2024 Symposium, Niagara Falls, Canada"
+      with: [E. Eustache, D. Haziza]
+    - date: 2024-06-02
+      title: "Variance estimation for survey estimators based on statistical learning procedures"
+      event: "2024 SSC Annual Meeting, St. John's, Canada"
+      with: [E. Eustache, D. Haziza]
+    - date: 2024-04-18
+      title: "Variance estimation for survey estimators based on statistical learning procedures"
+      event: "Séminaire en ligne sur les sondages, France (online)"
+    - date: 2023-12-16
+      title: "Variance estimation for survey estimators based on statistical learning procedures"
+      event: "16th International Conference of the ERCIM WG on Computational and Methodological Statistics, Berlin, Germany"
+      with: [D. Haziza]
+    - date: 2022-07-05
+      title: "Analysis of regression tree and random forest imputation in surveys"
+      event: "Summer School on Modern Methods in Survey Sampling, Ottawa, Canada"
+      with: [C. Goga, D. Haziza]
+    - date: 2022-05-30
+      title: "Model-assisted estimation through random forests in finite population sampling"
+      event: "2022 SSC Annual Meeting, Ottawa, Canada (online)"
+      with: [C. Goga, D. Haziza]
+    - date: 2022-06-08
+      title: "High-dimensional convergence for model-assisted estimators"
+      event: "ITACOSM 2022, Perugia, Italy"
+      with: [C. Goga, D. Haziza]
+    - date: 2021-08-07
+      title: "Random forests imputation in surveys"
+      event: "2021 Joint Statistical Meetings, Seattle, USA (online)"
+      with: [C. Goga, D. Haziza]
+    - date: 2021-07-15
+      title: "Model-assisted estimation through random forests in finite population sampling"
+      event: "Statistics 2021 Canada, Montréal, Canada (online)"
+      with: [C. Goga, D. Haziza]
+    - date: 2020-12-19
+      title: "Model-assisted estimation through random forests in finite population sampling"
+      event: "13th International Conference of the ERCIM WG on Computational and Methodological Statistics, London, England (online)"
+      with: [C. Goga, D. Haziza]
+
+- section: Contributed conference talks
+  talks:
+    - date: 2023-05-28
+      title: "High-dimensional model-assisted estimation for survey data"
+      event: "2023 SSC Annual Meeting, Ottawa, Canada"
+      with: [E. Eustache, D. Haziza]
+    - date: 2022-03-29
+      title: "Random forests in surveys: from model-assisted estimation to imputation"
+      event: "Journées de Méthodologie Statistique de l'Insee (JMS 2022), Paris, France"
+      with: [C. Goga, D. Haziza]
+    - date: 2021-12-08
+      title: "Random forests imputation in surveys"
+      event: "Forum des Jeunes Mathématicien·ne·s, Besançon, France"
+      with: [C. Goga, D. Haziza]
+    - date: 2021-10-06
+      title: "Model-assisted estimation through random forests in finite population sampling"
+      event: "11e Colloque International Francophone sur les Sondages, Brussels, Belgium"
+      with: [C. Goga, D. Haziza]
+      note: "Presented with Camelia Goga"
+    - date: 2021-10-06
+      title: "Random forests imputation in surveys"
+      event: "11e Colloque International Francophone sur les Sondages, Brussels, Belgium"
+      with: [C. Goga, D. Haziza]
+    - date: 2021-07-11
+      title: "Convergence rates of model-assisted estimators in high-dimensional settings"
+      event: "63rd ISI World Statistics Congress, The Hague, Netherlands (online)"
+      with: [C. Goga, D. Haziza]
+    - date: 2021-07-07
+      title: "Model-assisted estimation through random forests in finite population sampling"
+      event: "Conference in honor of Fred Smith and Chris Skinner, Southampton, England (online)"
+      with: [C. Goga, D. Haziza]
+    - date: 2021-07-05
+      title: "High-dimensional asymptotics for model-assisted estimation"
+      event: "6e Journée “Probabilités et statistiques Besançon–Dijon”, Dijon, France"
+      with: [C. Goga, D. Haziza]
+    - date: 2021-06-07
+      title: "Model-assisted estimation through random forests in finite population sampling"
+      event: "2021 SSC Annual Meeting, Ottawa, Canada (online)"
+      with: [C. Goga, D. Haziza]
+    - date: 2021-06-07
+      title: "Model-assisted estimation through random forests in finite population sampling"
+      event: "52es Journées de Statistique de la Société Française de Statistique, Nice, France (online)"
+      with: [C. Goga, D. Haziza]
+    - date: 2019-04-12
+      title: "Imputation and calibration reweighting for surveys with missing data"
+      event: "Sixième Journée des Jeunes Chercheurs en Mathématiques de l'UBFC, Besançon, France"
+
+- section: Invited seminars
+  talks:
+    - date: 2025-03-07
+      title: "Statistical learning for finite population sampling: some challenges"
+      event: "Statistics Seminar, University of Winnipeg, Winnipeg, Canada"
+    - date: 2024-12-16
+      title: "Statistical learning for finite population sampling: some challenges"
+      event: "Séminaire de Probabilités et Statistique, Université de Franche-Comté, Besançon, France"
+    - date: 2023-11-27
+      title: "Statistical inference in surveys with random forest imputed estimators"
+      event: "Séminaire de Statistique, Université de Sherbrooke, Sherbrooke, Canada"
+      with: [C. Goga, D. Haziza]
+    - date: 2023-09-18
+      title: "Statistical inference in surveys with random forest imputed estimators"
+      event: "Centre de Recherches Mathématiques (CRM), Applied Mathematics Seminars, Montréal, Canada"
+      with: [C. Goga, D. Haziza]
+    - date: 2023-06-06
+      title: "Statistical inference in the presence of imputed survey data through regression trees and random forests"
+      event: "Bank of Canada, Ottawa, Canada"
+      with: [C. Goga, D. Haziza]
+    - date: 2022-04-28
+      title: "Imputation par arbres de régression et forêts aléatoires en théorie des sondages"
+      event: "Séminaire de l'Institut de Statistique de Neuchâtel, Neuchâtel, Switzerland"
+      with: [C. Goga, D. Haziza]
+    - date: 2022-03-03
+      title: "Analysis of regression tree and random forest imputation in surveys"
+      event: "Séminaire des doctorants du Laboratoire de Mathématiques de Besançon, Besançon, France"
+      with: [C. Goga, D. Haziza]
+    - date: 2022-02-24
+      title: "Analysis of regression tree and random forest imputation in surveys"
+      event: "Séminaire des doctorants de l'Institut de Mathématiques de Bourgogne, Dijon, France"
+      with: [C. Goga, D. Haziza]
+    - date: 2020-11-30
+      title: "Model-assisted estimation through random forests in finite population sampling"
+      event: "Séminaire de l'équipe Probabilités et Statistiques du Laboratoire de Mathématiques de Besançon, Besançon, France (online)"
+      with: [C. Goga, D. Haziza]
+    - date: 2019-12-01
+      title: "Model-assisted estimation through random forests in finite population sampling"
+      event: "Séminaire des doctorants du Laboratoire de Mathématiques de Besançon, Besançon, France"
+      with: [C. Goga, D. Haziza]
+

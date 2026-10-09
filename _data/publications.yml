@@ -1,0 +1,167 @@
+# Publications — one entry per paper. Newest first within each list.
+# Numbers, sorting and formatting are done automatically by the site.
+#
+# status: published | accepted | to-appear | submitted
+# links:  any of journal, pdf, arxiv, supplement (leave out what you don't have)
+# topics: one or more topic ids from the list just below (used by the "By topic" view)
+# figure: name of an illustration in assets/fig/ (optional; shown only if show_figures is true)
+
+topics:
+  - {id: ml-surveys, name: Machine learning for finite population inference}
+  - {id: trees, name: Statistical learning from survey data}
+  - {id: missing-data, name: Missing data}
+  - {id: high-dim, name: High-dimensional inference}
+
+articles:
+
+  - title: Agnostic model-assisted estimation with machine learning for survey data
+    authors: [Z. An, M. Dagdoug, D. Haziza, Y. Tillé]
+    year: 2026
+    status: submitted
+    links:
+      pdf: files/AnDagdougHazizaTille(2026).pdf
+    topics: [ml-surveys]
+    figure: agnostic
+
+  - title: High-dimensional variance estimation for the generalized regression estimator
+    authors: [K. Bouhadra, M. Dagdoug]
+    year: 2026
+    status: to-appear
+    venue: The Survey Statistician
+    links:
+      pdf: files/BouhadraDagdoug(26).pdf
+    topics: [high-dim]
+    figure: greg-variance
+
+  - title: Machine learning methods for finite population parameter estimation in survey sampling
+    authors: [M. Dagdoug, D. Haziza]
+    year: 2026
+    status: submitted
+    links:
+      arxiv: https://arxiv.org/abs/2604.01160
+    topics: [ml-surveys]
+    figure: population
+
+  - title: Variable selection for linear regression imputation in surveys
+    authors: [Z. An, M. Dagdoug, D. Haziza]
+    year: 2026
+    status: submitted
+    links:
+      arxiv: https://arxiv.org/abs/2603.04576
+    topics: [missing-data, high-dim]
+    figure: lasso-path
+
+  - title: An RKHS perspective on tree ensembles
+    authors: [M. Dagdoug, C. Dombry, J.-J. Duchamps]
+    year: 2025
+    status: submitted
+    links:
+      arxiv: https://arxiv.org/abs/2512.00397
+    topics: [trees]
+    figure: rkhs-kernel
+
+  - title: On high-dimensional variance estimation in survey sampling
+    authors: [E. Eustache, M. Dagdoug, D. Haziza]
+    year: 2025
+    status: published
+    venue: Scandinavian Journal of Statistics
+    details: 52(2), 924–959
+    links:
+      journal: https://doi.org/10.1111/sjos.12776
+      pdf: files/EustacheDagdougHaziza(2025).pdf
+    topics: [high-dim]
+    figure: spectrum
+
+  - title: Statistical inference in the presence of imputed survey data through regression trees and random forests
+    authors: [M. Dagdoug, C. Goga, D. Haziza]
+    year: 2025
+    status: published
+    venue: Scandinavian Journal of Statistics
+    details: 52(2), 960–998
+    links:
+      journal: https://doi.org/10.1111/sjos.12777
+      pdf: files/DagdougGogaHaziza(2025).pdf
+    topics: [missing-data, trees]
+    figure: tree-imputation
+
+  - title: On the use of machine learning methods for the treatment of unit nonresponse in surveys
+    authors: [K. Larbi, J. Tsang, D. Haziza, M. Dagdoug]
+    year: 2025
+    status: published
+    venue: Survey Methodology
+    details: 51(1), 275–303
+    links:
+      journal: https://www150.statcan.gc.ca/n1/en/catalogue/12-001-X202500100003
+      pdf: files/LarbiTsangHazizaDagdoug(2024).pdf
+    topics: [missing-data, ml-surveys]
+    figure: nonresponse
+
+  - title: Model-assisted estimation through random forests in finite population sampling
+    authors: [M. Dagdoug, C. Goga, D. Haziza]
+    year: 2023
+    status: published
+    venue: Journal of the American Statistical Association
+    details: 118(542), 1234–1251
+    links:
+      journal: https://doi.org/10.1080/01621459.2021.1987250
+      pdf: files/RF_DagdougGogaHaziza.pdf
+      supplement: files/marfSM.pdf
+    topics: [ml-surveys, trees]
+    figure: forest-partition
+
+  - title: Model-assisted estimation in high-dimensional settings for survey data
+    authors: [M. Dagdoug, C. Goga, D. Haziza]
+    year: 2023
+    status: published
+    venue: Journal of Applied Statistics
+    details: 50(3), 761–785
+    links:
+      journal: https://doi.org/10.1080/02664763.2022.2047905
+      pdf: files/HD_DagdougGogaHaziza.pdf
+      supplement: files/SM_HD_DagdougGogaHaziza.pdf
+    topics: [high-dim, ml-surveys]
+    figure: high-dim
+
+  - title: "Imputation procedures in surveys using nonparametric and machine learning methods: an empirical comparison"
+    authors: [M. Dagdoug, C. Goga, D. Haziza]
+    year: 2023
+    status: published
+    venue: Journal of Survey Statistics and Methodology
+    details: 11(1), 141–188
+    links:
+      journal: https://doi.org/10.1093/jssam/smab004
+      pdf: files/IMP_DagdougGogaHaziza.pdf
+    topics: [missing-data, ml-surveys]
+    figure: imputation-compare
+
+proceedings:
+
+  - title: Statistical inference for a finite population mean with machine learning-based imputation for missing survey data
+    authors: [M. Dagdoug, D. Haziza]
+    year: 2025
+    venue: Proceedings of Statistics Canada Symposium 2024
+    links:
+      pdf: files/ProceedingsSymposium(25).pdf
+
+  - title: "Arbres et forêts aléatoires : d’une approche par modélisation assistée au traitement de la non-réponse"
+    authors: [M. Dagdoug, C. Goga, D. Haziza]
+    year: 2022
+    venue: Actes de la 14e édition des Journées de méthodologie statistique de l’Insee (JMS 2022)
+    links:
+      pdf: files/jms2022.pdf
+
+  - title: "Treatment of unit nonresponse in surveys through machine learning methods: an empirical comparison"
+    authors: [K. Larbi, D. Haziza, M. Dagdoug]
+    year: 2022
+    venue: Actes de la 14e édition des Journées de méthodologie statistique de l’Insee (JMS 2022)
+    links:
+      pdf: files/Larbi_Haziza_Dagdoug22.pdf
+
+thesis:
+  title: Statistical learning for high-dimensional sampling
+  institution: Université de Bourgogne Franche-Comté
+  lab: Laboratoire de Mathématiques de Besançon
+  year: 2022
+  defended: July 12, 2022
+  supervisors: [Camelia Goga, David Haziza]
+  pdf: files/these.pdf

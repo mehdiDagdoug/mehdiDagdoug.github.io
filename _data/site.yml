@@ -1,0 +1,128 @@
+name: Mehdi Dagdoug
+first: Mehdi
+last: Dagdoug
+role: Assistant Professor of Statistics
+department: Department of Mathematics and Statistics
+institution: McGill University
+url: https://mehdidagdoug.github.io
+photo: assets/img/mehdi.jpg
+cv: files/CV_Dagdoug.pdf
+
+topics: [Survey sampling, Missing data, Statistical learning, High-dimensional inference]
+
+lead: >-
+  I am interested in statistical inference from survey data, both for finite population
+  quantities and for superpopulation quantities, particularly in difficult settings: a large
+  number of auxiliary variables, domains containing few sampled units, or nonresponse. Survey
+  data are often neither independent nor identically distributed. I aim to understand how classical
+  methods behave in this setting and how new tools, including machine learning, can improve them,
+  by studying their asymptotic properties, how their uncertainty can be quantified, and when they
+  are optimal.
+
+# Title of the Research page (the research program)
+program: Learning and inference from survey data
+
+# Research page: the program and its themes, why it matters, then one block per theme.
+# topic: the id of the matching topic on the Publications page (its papers are listed under the theme).
+research_intro:
+  - >-
+    My research aims to draw reliable conclusions from data collected through surveys. I am
+    interested both in finite population quantities, such as totals, means or quantiles, and in
+    superpopulation quantities, such as a regression function. This work is organized around four
+    themes, described below: [machine learning for finite population inference](#ml-surveys),
+    [statistical learning from survey data](#trees), [missing data](#missing-data) and
+    [high-dimensional inference](#high-dim).
+  - >-
+    Surveys remain the backbone of official statistics, from employment figures to health and
+    economic indicators. They increasingly have to deliver reliable estimates in difficult settings:
+    falling response rates, many auxiliary variables, highly nonlinear relationships, or domains
+    containing few sampled units (small area estimation). Combining surveys with other sources of
+    data (data integration) adds further challenges. In such settings, classical procedures may lose
+    some of their properties, and newer ones, including methods from statistical learning, raise new
+    questions.
+  - >-
+    Survey data add a further difficulty: they are often neither independent nor identically
+    distributed. Units are typically drawn without replacement, which creates dependence. They are
+    often selected with unequal probabilities, so that observations are not identically
+    distributed, and the sampling design can even be informative. Classical survey theory was built
+    to handle these features. Many of the newer methodologies, such as machine learning, were instead
+    developed for independent and identically distributed data. They offer new ways to address
+    classical survey problems, as well as emerging ones, provided that both the methods and their
+    theory are adapted to the sampling design.
+  - >-
+    My aim is to understand and improve current methodologies in these settings: to derive the
+    asymptotic properties of estimators, to quantify their uncertainty, and to identify when they
+    are optimal.
+
+research_themes:
+  - topic: ml-surveys
+    title: Machine learning for finite population inference
+    why: >-
+      Estimating finite population quantities is the core task of survey sampling. Predictions from
+      flexible models can make these estimates much more precise.
+    what: >-
+      I am interested in estimators that incorporate such predictions, for example through
+      model-assisted estimation. I aim to study when they keep the guarantees of design-based
+      inference, whatever the quality of the predictions, and when they are efficient.
+  - topic: trees
+    title: Statistical learning from survey data
+    why: >-
+      Survey data are increasingly used to fit predictive models. Yet standard learning methods
+      assume independent and identically distributed data, and can be misleading under complex or
+      informative designs.
+    what: >-
+      I am interested in learning methods that estimate superpopulation quantities, such as a
+      regression function, from survey data, and in their theoretical properties.
+  - topic: missing-data
+    title: Missing data
+    why: >-
+      Nonresponse affects nearly every survey and keeps increasing. Left uncorrected, it can bias
+      estimates.
+    what: >-
+      I am interested in procedures that account for missing data, imputation and reweighting being
+      two examples, possibly based on machine learning, and in how to obtain valid inference in
+      their presence.
+  - topic: high-dim
+    title: High-dimensional inference
+    why: >-
+      The number of available auxiliary variables keeps growing, sometimes to the point of being
+      comparable with the sample size. Classical asymptotic results may then no longer apply.
+    what: >-
+      I aim to understand how estimators and their variance estimators behave in such regimes, and
+      to develop procedures that remain reliable.
+
+email: mehdi.dagdoug@mcgill.ca
+office: Burnside Hall, room 1230
+address: 805 rue Sherbrooke Ouest, Montréal, QC H3A 0B9
+
+# Paper illustrations on the Publications page: true = show, false = hide
+show_figures: false
+
+links:
+  - {label: Google Scholar, url: "https://scholar.google.com/citations?user=LjZ0V7UAAAAJ"}
+  - {label: GitHub, url: "https://github.com/mehdiDagdoug"}
+  - {label: LinkedIn, url: "https://www.linkedin.com/in/mehdidagdoug/"}
+  - {label: ResearchGate, url: "https://www.researchgate.net/profile/Mehdi_Dagdoug2"}
+
+nav:
+  - {label: Home, url: index.html}
+  - {label: Research, url: research.html}
+  - {label: Publications, url: publications.html}
+  - {label: Talks, url: talks.html}
+  - {label: Teaching, url: teaching.html}
+  - {label: Students, url: students.html}
+  - {label: Service, url: service.html}
+
+bio:
+  - >-
+    I am an Assistant Professor in the Department of Mathematics and Statistics at
+    McGill University. Previously, I was a Postdoctoral Fellow at the University of
+    Ottawa, working with David Haziza.
+  - >-
+    I completed my Ph.D. in Mathematics at the Laboratoire de Mathématiques de Besançon
+    (Université de Bourgogne Franche-Comté), supervised by
+    Camelia Goga and David Haziza. I defended my thesis,
+    [*Statistical learning for high-dimensional sampling*](files/these.pdf), on July 12, 2022.
+    My doctoral work was funded by the Région Franche-Comté and
+    [Médiamétrie](https://www.mediametrie.fr/en).
+

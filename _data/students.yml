@@ -1,0 +1,31 @@
+# Students and postdocs.
+# level: postdoc | phd | msc | undergrad | visiting
+# start / end: YYYY-MM. Leave "end" out while the person is still with you.
+# People move from "Current" to "Former" automatically once their end date has passed.
+# Optional: institution, with (co-supervisor), program, thesis, topic, note, now (current position).
+
+- {level: postdoc, name: Caleb Leedy, start: 2025-08, end: 2027-08, institution: University of Ottawa, with: David Haziza, note: Working jointly with the Bank of Canada through a Mitacs grant}
+
+- {level: phd, name: Shengzhou Li, start: 2026-09, institution: McGill University, with: Tim Hoheisel}
+- {level: phd, name: Kalil Bouhadra, start: 2025-09, institution: McGill University}
+- {level: phd, name: Ziming An, start: 2023-08, institution: University of Ottawa, with: David Haziza}
+
+- {level: msc, name: Xiao Qi Li, start: 2025-09, institution: McGill University}
+- {level: msc, name: Evelyn Hubbard, start: 2024-09, end: 2026-07, institution: McGill University, with: Abbas Khalili, thesis: "Linear regression under covariate shift and model misspecification: benefits and costs of importance weighting", now: "Ph.D. student, Université de Montréal"}
+- {level: msc, name: Gulliver Hager, start: 2024-09, end: 2026-07, institution: McGill University, thesis: "Survey trees: from predictive performance to estimator efficiency for tree-based models adapted for model-assisted estimation in survey sampling", now: Morgan Stanley}
+- {level: msc, name: Mila Pourali, start: 2025-01, end: 2026-07, institution: McGill University, thesis: Asymptotic efficiency of the assumption-lean generalized regression estimator}
+- {level: msc, name: John Tsang, start: 2023-08, end: 2025-01, institution: University of Ottawa, with: David Haziza, thesis: Data integration for two-phase surveys, now: Statistics Canada}
+
+- {level: undergrad, name: Peter Buddle, start: 2026-09, program: Majors project (MATH 410), topic: Central limit theorems in survey sampling}
+- {level: undergrad, name: Catherine Chen, start: 2026-09, program: Majors project (MATH 410), topic: Concentration inequalities in survey sampling}
+- {level: undergrad, name: Peter Buddle, start: 2026-05, end: 2026-08, program: NSERC USRA summer research internship, topic: Central limit theorems in survey sampling}
+- {level: undergrad, name: Rob Li, start: 2025-05, end: 2025-08, program: NSERC USRA summer research internship, with: Hui Shen, topic: Differential privacy for survey data}
+- {level: undergrad, name: Rob Li, start: 2025-01, end: 2025-04, program: Honours research project (MATH 470), topic: Differential privacy}
+- {level: undergrad, name: Diego Urdapilleta de la Parra, start: 2025-01, end: 2025-04, program: Majors project (MATH 410), topic: Model selection and aggregation for regression}
+- {level: undergrad, name: Mila Pourali, start: 2024-05, end: 2024-08, program: Honours research project (MATH 470), topic: Foundations of semiparametric theory and missing data}
+- {level: undergrad, name: Xiao Qi Li, start: 2024-05, end: 2024-08, program: Honours research project (MATH 470), topic: Active statistical inference for finite population sampling}
+- {level: undergrad, name: Simon Savaria, start: 2024-05, end: 2024-08, program: Honours research project (MATH 470), topic: Resampling methods for variance estimation}
+- {level: undergrad, name: Yajun Hui, start: 2023-09, end: 2023-12, program: Honours research project (MATH 470), topic: Estimator selection for survey data}
+
+- {level: visiting, name: Enzo Abdallah-Herve, start: 2024-04, end: 2024-07, institution: École Normale Supérieure Paris-Saclay, topic: Covariate shift problems in regression}
+- {level: visiting, name: Kalil Bouhadra, start: 2024-03, end: 2024-05, institution: École Polytechnique Fédérale de Lausanne (EPFL), topic: High-dimensional statistics with survey data}

@@ -1,0 +1,108 @@
+{% extends "base.html" %}
+{% macro entry(p, n) %}
+          <article class="pub{% if site.show_figures and p.figure %} has-fig{% endif %}">
+            <div class="pub-body">
+              <span class="pub-num">{{ n }}.</span>
+              <h4 class="pub-title">{% if p.links.journal %}<a href="{{ p.links.journal }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</h4>
+              <p class="pub-authors">{{ p | authors | end_period }}</p>
+              <p class="pub-venue">{{ p | venue_full | end_period }}</p>
+              <p class="pub-links">
+                {% if p.links.journal %}<a href="{{ p.links.journal }}">Journal ↗</a>{% endif %}
+                {% if p.links.pdf %}<a href="{{ p.links.pdf | fileurl }}">PDF</a>{% endif %}
+                {% if p.links.arxiv %}<a href="{{ p.links.arxiv }}">arXiv</a>{% endif %}
+                {% if p.links.supplement %}<a href="{{ p.links.supplement | fileurl }}">Supplement</a>{% endif %}
+              </p>
+            </div>
+            {% if site.show_figures and p.figure %}<figure class="pub-fig">{{ p.figure | figure }}</figure>{% endif %}
+          </article>
+{% endmacro %}
+{% block content %}
+    <header class="page-head head-row">
+      <h1>Publications</h1>
+      <div class="view-switch" role="group" aria-label="Order the articles" hidden>
+        <button type="button" data-view="year" aria-pressed="true">By year</button>
+        <button type="button" data-view="topic" aria-pressed="false">By topic</button>
+      </div>
+    </header>
+
+    {% set total = pubs.articles | length %}
+    <section aria-labelledby="articles">
+      <h2 class="section-title" id="articles">Journal articles and preprints</h2>
+
+      <div data-panel="year">
+        {% for year, items in pubs.articles | groupby_year %}
+        <div class="year-group">
+          <h3 class="year">{{ year }}</h3>
+          {% for p in items %}{{ entry(p, total - p._idx) }}{% endfor %}
+        </div>
+        {% endfor %}
+      </div>
+
+      <div data-panel="topic" class="topic-grid" hidden>
+        {% for topic, papers in topic_groups %}
+        <section class="card topic-block" id="topic-{{ topic.id }}">
+          <h3 class="topic">{{ topic.name }}</h3>
+          <p class="topic-count">{{ papers | length }} paper{{ 's' if papers | length != 1 }}</p>
+          {% for year, items in papers | groupby_year %}
+          <p class="topic-year">{{ year }}</p>
+          <ol class="topic-list">
+            {% for p in items %}
+            <li>
+              <span class="tnum">{{ total - p._idx }}.</span>
+              <div>
+                <a class="ttitle" href="{{ p | mainlink }}">{{ p.title }}</a>
+                <span class="tmeta">{{ (p | coauthors) + " · " + (p | venue_plain) | end_period }}</span>
+              </div>
+            </li>
+            {% endfor %}
+          </ol>
+          {% endfor %}
+        </section>
+        {% endfor %}
+      </div>
+    </section>
+
+    <section aria-labelledby="proceedings">
+      <h2 class="section-title" id="proceedings">Conference proceedings</h2>
+      {% set ptotal = pubs.proceedings | length %}
+      {% for year, items in pubs.proceedings | groupby_year %}
+      <div class="year-group">
+        <h3 class="year">{{ year }}</h3>
+        {% for p in items %}{{ entry(p, ptotal - p._idx) }}{% endfor %}
+      </div>
+      {% endfor %}
+    </section>
+
+    {% set t = pubs.thesis %}
+    <section aria-labelledby="thesis" class="thesis-section">
+      <h2 class="section-title" id="thesis">Ph.D. thesis</h2>
+      <div class="card thesis">
+        <h3 class="thesis-title"><a href="{{ t.pdf | fileurl }}">{{ t.title }}</a></h3>
+        <p>Ph.D. in Mathematics, {{ t.lab }}, {{ t.institution }}. Defended on {{ t.defended }}.</p>
+        <p>Supervised by {{ t.supervisors | join_names }}.</p>
+        <p class="pub-links"><a href="{{ t.pdf | fileurl }}">PDF</a></p>
+      </div>
+    </section>
+{% endblock %}
+{% block scripts %}
+<script>
+(() => {
+  const toggle = document.querySelector('.view-switch');
+  const buttons = [...toggle.querySelectorAll('button')];
+  const panels = [...document.querySelectorAll('[data-panel]')];
+  const show = (view) => {
+    panels.forEach(p => p.hidden = p.dataset.panel !== view);
+    buttons.forEach(b => b.setAttribute('aria-pressed', b.dataset.view === view));
+    history.replaceState(null, '', view === 'topic' ? '#by-topic' : location.pathname);
+  };
+  buttons.forEach(b => b.addEventListener('click', () => show(b.dataset.view)));
+  toggle.hidden = false;
+  const hash = location.hash;
+  show(hash === '#by-topic' || hash.startsWith('#topic-') ? 'topic' : 'year');
+  if (hash.startsWith('#topic-')) {
+    history.replaceState(null, '', hash);
+    document.getElementById(hash.slice(1))?.scrollIntoView();
+  }
+})();
+</script>
+{% endblock %}

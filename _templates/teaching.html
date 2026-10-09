@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block content %}
+    <header class="page-head">
+      <h1>Teaching</h1>
+    </header>
+
+    <section>
+      <h2 class="section-title ruled">This year</h2>
+      <p class="section-note">At {{ teaching.current.institution }}. {{ teaching.current.note }}</p>
+      <ul class="course-grid">
+        {% for c in teaching.current.courses %}
+        <li>
+          <a class="card course" href="{{ c.url }}">
+            <span class="course-code">{{ c.code }} · {{ c.term }}</span>
+            <span class="course-title">{{ c.title }}</span>
+            {% if c.subtitle %}<span class="course-sub">{{ c.subtitle }}</span>{% endif %}
+            <span class="course-link">Course page ↗</span>
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+
+    <section>
+      <h2 class="section-title ruled">Past teaching</h2>
+      {% for g in teaching.past %}
+      {% set has_level = g.courses | selectattr("level") | list | length > 0 %}
+      <h3 class="subsection">{{ g.group }}</h3>
+      {% if g.intro %}<p class="section-note">{{ g.intro | md }}</p>{% endif %}
+      <table class="table">
+        <thead><tr><th scope="col">Course</th>{% if has_level %}<th scope="col">Level</th>{% endif %}<th scope="col">When</th></tr></thead>
+        <tbody>
+          {% for c in g.courses %}
+          <tr>
+            <td class="t-main">{{ c.title }}{% if c.where %}<span class="t-sub">{{ c.where }}</span>{% endif %}</td>
+            {% if has_level %}<td>{{ c.level }}</td>{% endif %}
+            <td class="t-when">{{ c.when }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      {% endfor %}
+    </section>
+
+    <section>
+      <h2 class="section-title ruled">Outreach</h2>
+      <ul class="rows">
+        {% for o in teaching.outreach %}<li>{{ o | md }}</li>{% endfor %}
+      </ul>
+    </section>
+{% endblock %}

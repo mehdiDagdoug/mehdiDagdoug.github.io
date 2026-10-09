@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% set page_title = (title ~ " · " if title else "") ~ site.name %}
+  {% set page_url = site.url ~ "/" ~ ("" if page == "index.html" else page) %}
+  {% set description = site.name ~ ", " ~ site.role ~ " at McGill University. Research on " ~ (site.research_themes | map(attribute="title") | map("lower") | join(", ")) ~ "." %}
+  <title>{{ page_title }}</title>
+  <meta name="description" content="{{ description }}">
+  <link rel="canonical" href="{{ page_url }}">
+  <!-- Link previews (LinkedIn, Slack, iMessage, X, …) -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.name }}">
+  <meta property="og:title" content="{{ page_title }}">
+  <meta property="og:description" content="{{ description }}">
+  <meta property="og:url" content="{{ page_url }}">
+  <meta property="og:image" content="{{ site.url }}/assets/img/preview.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="{{ site.name }}, {{ site.role }}, McGill University">
+  <meta name="twitter:card" content="summary_large_image">
+  {% if page == "index.html" %}
+  <script type="application/ld+json">
+  {{ {"@context": "https://schema.org", "@type": "Person", "name": site.name, "jobTitle": site.role,
+      "affiliation": {"@type": "CollegeOrUniversity", "name": site.institution}, "url": site.url,
+      "email": "mailto:" ~ site.email, "image": site.url ~ "/" ~ site.photo,
+      "sameAs": site.links | map(attribute="url") | list} | tojson }}
+  </script>
+  {% endif %}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css?v={{ css_version }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html">{{ site.name }}</a>
+      <nav class="nav" aria-label="Main">
+        {% for item in site.nav %}
+        <a href="{{ item.url }}"{% if item.url == page %} aria-current="page"{% endif %}>{{ item.label }}</a>
+        {% endfor %}
+        <a href="{{ site.cv | fileurl }}" class="nav-cv">CV</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+{% block content %}{% endblock %}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <div>
+        <div class="footer-name">{{ site.name }}</div>
+        <div>{{ site.department }}, {{ site.institution }}</div>
+        <div>{{ site.office }} · {{ site.address }}</div>
+        <div><a href="mailto:{{ site.email }}">{{ site.email }}</a></div>
+      </div>
+      <div class="footer-links">
+        {% for l in site.links %}<a href="{{ l.url }}">{{ l.label }}</a>{% endfor %}
+      </div>
+    </div>
+  </footer>
+{% block scripts %}{% endblock %}
+</body>
+</html>

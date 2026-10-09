@@ -1,0 +1,454 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Curriculum vitae — Mehdi Dagdoug
+% Based on the "Medium Length Professional CV" template (LaTeXTemplates.com, Trey Hunner).
+% Requires resume.cls in the same folder.
+%
+% Build:  pdflatex CV_Dagdoug.tex
+% Without the personal details (date of birth, address, phone):
+%   pdflatex -jobname=CV_Dagdoug_short "\def\nopersonal{}\input{CV_Dagdoug}"
+% Publications and talks are numbered automatically, counting down within each list (etaremune): just add items at the top.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass{resume}
+\usepackage[left=0.7in,top=0.6in,right=0.7in,bottom=0.6in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{times} % Times for text, Computer Modern for math
+\usepackage{xcolor}
+\definecolor{bleu1}{RGB}{0,77,128}
+\usepackage{hyperref}
+\usepackage{xurl} % long web addresses may break across lines
+\emergencystretch=3em % avoid lines running into the margin
+\hypersetup{colorlinks=true, linkcolor=bleu1, urlcolor=bleu1, pdftitle={CV - Mehdi Dagdoug}, pdfauthor={Mehdi Dagdoug}}
+\renewcommand{\normalsize}{\fontsize{10}{13.2}\selectfont}
+
+\newif\ifpersonal \personaltrue
+\ifdefined\nopersonal \personalfalse \fi
+\usepackage{etaremune} % numbered lists that count down (newest item = highest number)
+
+
+% Shortcuts
+\newcommand{\me}{\textbf{Dagdoug, M.}}                               % own name in publications
+\newcommand{\doi}[1]{\href{https://doi.org/#1}{doi:#1}}
+\newcommand{\arxiv}[1]{\href{https://arxiv.org/abs/#1}{arXiv:#1}}
+\newcommand{\site}[1]{\href{https://mehdidagdoug.github.io/files/#1}{PDF}}
+\newcommand{\todo}[1]{\textcolor{red}{\textbf{[#1]}}}                % items still to confirm
+
+\name{Mehdi Dagdoug}
+
+\begin{document}
+
+\vspace{-1.5em}
+\begin{center}\small Last updated: October 2026\end{center}
+
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Present position}
+\vspace{2mm}
+\textbf{Assistant Professor}, Department of Mathematics and Statistics, McGill University \\[5pt]
+Office: 1230 Burnside Hall, 805 Sherbrooke Street West, Montréal, Québec, Canada, H3A 0B9 \\[5pt]
+E-mail: \href{mailto:mehdi.dagdoug@mcgill.ca}{mehdi.dagdoug@mcgill.ca} \\[5pt]
+Webpage: \url{https://mehdidagdoug.github.io} \\[5pt]
+Google Scholar: \href{https://scholar.google.com/citations?user=LjZ0V7UAAAAJ}{scholar.google.com/citations?user=LjZ0V7UAAAAJ}
+\end{rSection}
+
+\ifpersonal
+\begin{rSection}{Personal information}
+\vspace{2mm}
+Born on March 6, 1996 \\[5pt]
+Nationality: French \\[5pt]
+Address: 219 Rue Maria, Montréal, Québec, Canada, H4C 0B5 \\[5pt]
+Phone: +1 613 252 6185
+\end{rSection}
+\fi
+
+\begin{rSection}{Education}
+\vspace{2mm}
+
+\textbf{2019--2022:} \underline{Ph.D. in Mathematics}, Université de Bourgogne Franche-Comté. \\
+\emph{Supervision}: Camelia Goga (Université de Bourgogne Franche-Comté) and David Haziza (University of Ottawa). \\
+\emph{Thesis}: ``\href{https://mehdidagdoug.github.io/files/these.pdf}{Statistical learning for high-dimensional sampling}'', defended on July 12, 2022.
+
+\textbf{2017--2019:} \underline{Master of Science in Statistical Modeling}, option Research in Statistics, Université de Franche-Comté.
+
+\textbf{2014--2017:} \underline{Bachelor in Mathematics}, option Applied Mathematics, Université de Franche-Comté.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Professional experience}
+\vspace{2mm}
+
+\begin{rSubsection}{Assistant Professor}{Aug 2023 -- present}{McGill University, Department of Mathematics and Statistics}{Montréal, Canada}
+Tenure-track position.
+\end{rSubsection}
+
+\begin{rSubsection}{Postdoctoral researcher in statistics}{Nov 2022 -- Jul 2023}{University of Ottawa, Department of Mathematics and Statistics}{Ottawa, Canada}
+Postdoctoral fellowship supervised by Professor David Haziza.
+\end{rSubsection}
+
+\begin{rSubsection}{Attaché temporaire d'enseignement et de recherche}{Sep 2022 -- Oct 2022}{Laboratoire de Mathématiques de Besançon}{Besançon, France}
+Temporary teaching and research position at the Université de Franche-Comté.
+\end{rSubsection}
+
+\begin{rSubsection}{Ph.D. student with teaching contract}{Oct 2019 -- Aug 2022}{Laboratoire de Mathématiques de Besançon}{Besançon, France}
+Ph.D. scholarship funded by the Région Bourgogne Franche-Comté and Médiamétrie. Research and teaching activities at the Université de Franche-Comté.
+\end{rSubsection}
+
+\begin{rSubsection}{Research internship}{Mar 2019 -- Aug 2019}{Laboratoire de Mathématiques de Besançon}{Besançon, France}
+Master's thesis, ``Model-assisted approaches and nonresponse in survey sampling'', supervised by Professor Camelia Goga (Université de Bourgogne Franche-Comté).
+\end{rSubsection}
+
+\begin{rSubsection}{Data scientist intern}{Apr 2018 -- Aug 2018}{Airbus}{Toulouse, France}
+Research and development on anomaly detection for avionics data with semi-supervised statistical learning models.
+\end{rSubsection}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Awards and honors}
+\vspace{2mm}
+\begin{itemize}
+  \item[--] 2023: Laureate of the first edition of the \textbf{Jean-Claude Deville Prize} of the French Statistical Society.
+\end{itemize}
+\end{rSection}
+
+\begin{rSection}{Funding history}
+\vspace{2mm}
+\begin{itemize}
+  \item[--] 2026--2029: \textbf{CANSSI Collaborative Research Team}, team member. Amount: \$210,000 CAD. Title: ``Statistical inference in survey sampling with machine learning methods''.
+  \item[--] 2024--2029: \textbf{NSERC Discovery Grant}, principal investigator. Amount: \$162,500 CAD. Title: ``Statistical learning for high-dimensional survey sampling''.
+  \item[--] 2024--2028: \textbf{Mitacs Accelerate}, co-investigator with David Haziza. Amount: \$315,000 CAD. Title: ``Statistical learning procedures for the treatment of unit and item nonresponse in surveys''.
+  \item[--] 2023: \textbf{Start-up grant}, McGill University. Amount: \$150,000 CAD.
+\end{itemize}
+\end{rSection}
+
+\begin{rSection}{Research areas}
+\vspace{2mm}
+\begin{itemize}
+  \item[--] Survey sampling theory: model-assisted estimation, high-dimensional asymptotic theory, variance estimation.
+  \item[--] Statistical learning and its applications to survey sampling and missing data.
+  \item[--] Model selection procedures and their applications to complex survey data.
+\end{itemize}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Publications}
+\vspace{2mm}
+
+\textbf{Journal articles and preprints.}
+\begin{etaremune}
+  \item An, Z., \me, Haziza, D., \& Tillé, Y. (2026). Agnostic model-assisted estimation with machine learning for survey data. Submitted. \site{AnDagdougHazizaTille(2026).pdf}.
+
+  \item Bouhadra, K., \& \me\ (2026). High-dimensional variance estimation for the generalized regression estimator. \emph{The Survey Statistician}, to appear. \site{BouhadraDagdoug(26).pdf}.
+
+  \item \me, \& Haziza, D. (2026). Machine learning methods for finite population parameter estimation in survey sampling. Submitted. \arxiv{2604.01160}.
+
+  \item An, Z., \me, \& Haziza, D. (2026). Variable selection for linear regression imputation in surveys. Submitted. \arxiv{2603.04576}.
+
+  \item \me, Dombry, C., \& Duchamps, J.-J. (2025). An RKHS perspective on tree ensembles. Submitted. \arxiv{2512.00397}.
+
+  \item Eustache, E., \me, \& Haziza, D. (2025). On high-dimensional variance estimation in survey sampling. \emph{Scandinavian Journal of Statistics}, 52(2), 924--959. \doi{10.1111/sjos.12776}.
+
+  \item \me, Goga, C., \& Haziza, D. (2025). Statistical inference in the presence of imputed survey data through regression trees and random forests. \emph{Scandinavian Journal of Statistics}, 52(2), 960--998. \doi{10.1111/sjos.12777}.
+
+  \item Larbi, K., Tsang, J., Haziza, D., \& \me\ (2025). On the use of machine learning methods for the treatment of unit nonresponse in surveys. \emph{Survey Methodology}, 51(1), 275--303. \href{https://www150.statcan.gc.ca/n1/en/catalogue/12-001-X202500100003}{Link}.
+
+  \item \me, Goga, C., \& Haziza, D. (2023). Model-assisted estimation through random forests in finite population sampling. \emph{Journal of the American Statistical Association}, 118(542), 1234--1251. \doi{10.1080/01621459.2021.1987250}.
+
+  \item \me, Goga, C., \& Haziza, D. (2023). Model-assisted estimation in high-dimensional settings for survey data. \emph{Journal of Applied Statistics}, 50(3), 761--785. \doi{10.1080/02664763.2022.2047905}.
+
+  \item \me, Goga, C., \& Haziza, D. (2023). Imputation procedures in surveys using nonparametric and machine learning methods: an empirical comparison. \emph{Journal of Survey Statistics and Methodology}, 11(1), 141--188. \doi{10.1093/jssam/smab004}.
+\end{etaremune}
+
+\textbf{Conference proceedings.}
+\begin{etaremune}
+  \item \me, \& Haziza, D. (2025). Statistical inference for a finite population mean with machine learning-based imputation for missing survey data. \emph{Proceedings of Statistics Canada Symposium 2024}. \site{ProceedingsSymposium(25).pdf}.
+
+  \item \me, Goga, C., \& Haziza, D. (2022). Arbres et forêts aléatoires : d'une approche par modélisation assistée au traitement de la non-réponse. \emph{Actes de la 14e édition des Journées de méthodologie statistique de l'Insee (JMS 2022)}. \site{jms2022.pdf}.
+
+  \item Larbi, K., Haziza, D., \& \me\ (2022). Treatment of unit nonresponse in surveys through machine learning methods: an empirical comparison. \emph{Actes de la 14e édition des Journées de méthodologie statistique de l'Insee (JMS 2022)}. \site{Larbi_Haziza_Dagdoug22.pdf}.
+\end{etaremune}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Supervision}
+\vspace{2mm}
+
+\textbf{Current.}
+\begin{itemize}
+\item Postdoctoral researchers:
+\begin{itemize}
+  \item[--] Caleb Leedy, University of Ottawa. Aug 2025 -- Aug 2027. Co-supervised with David Haziza. Working jointly with the Bank of Canada through a Mitacs grant.
+\end{itemize}
+
+\item Ph.D. students:
+\begin{itemize}
+  \item[--] Shengzhou Li, McGill University. Sep 2026 -- present. Co-supervised with Tim Hoheisel.
+  \item[--] Kalil Bouhadra, McGill University. Sep 2025 -- present.
+  \item[--] Ziming An, University of Ottawa. Aug 2023 -- present. Co-supervised with David Haziza.
+\end{itemize}
+
+\item M.Sc. students:
+\begin{itemize}
+  \item[--] Xiao Qi Li, McGill University. Sep 2025 -- present.
+\end{itemize}
+
+\item Undergraduate students (McGill University):
+\begin{itemize}
+  \item[--] Peter Buddle. Sep 2026 -- present. Majors project (MATH 410). \emph{Topic}: Central limit theorems in survey sampling.
+  \item[--] Catherine Chen. Sep 2026 -- present. Majors project (MATH 410). \emph{Topic}: Concentration inequalities in survey sampling.
+\end{itemize}
+\end{itemize}
+
+\textbf{Former.}
+\begin{itemize}
+\item M.Sc. students:
+\begin{itemize}
+  \item[--] Evelyn Hubbard, McGill University. Sep 2024 -- Jul 2026. Co-supervised with Abbas Khalili. \\
+  \emph{Thesis}: Linear regression under covariate shift and model misspecification: benefits and costs of importance weighting. \\
+  \emph{Now}: Ph.D. student, Université de Montréal.
+  \item[--] Gulliver Hager, McGill University. Sep 2024 -- Jul 2026. \\
+  \emph{Thesis}: Survey trees: from predictive performance to estimator efficiency for tree-based models adapted for model-assisted estimation in survey sampling. \\
+  \emph{Now}: Morgan Stanley.
+  \item[--] Mila Pourali, McGill University. Jan 2025 -- Jul 2026. \\
+  \emph{Thesis}: Asymptotic efficiency of the assumption-lean generalized regression estimator.
+  \item[--] John Tsang, University of Ottawa. Aug 2023 -- Jan 2025. Co-supervised with David Haziza. Working jointly with the Bank of Canada through a Mitacs grant. \\
+  \emph{Thesis}: Data integration for two-phase surveys. \\
+  \emph{Now}: Statistics Canada.
+\end{itemize}
+
+\item Undergraduate students (McGill University):
+\begin{itemize}
+  \item[--] Peter Buddle. May 2026 -- Aug 2026. NSERC USRA summer research internship. \emph{Topic}: Central limit theorems in survey sampling.
+  \item[--] Rob Li. May 2025 -- Aug 2025. NSERC USRA summer research internship. Co-supervised with Hui Shen (postdoctoral fellow at McGill). \emph{Topic}: Differential privacy for survey data.
+  \item[--] Rob Li. Jan 2025 -- Apr 2025. Honours research project (MATH 470). \emph{Topic}: Differential privacy.
+  \item[--] Diego Urdapilleta de la Parra. Jan 2025 -- Apr 2025. Majors project (MATH 410). \emph{Topic}: Model selection and aggregation for regression.
+  \item[--] Mila Pourali. May 2024 -- Aug 2024. Honours research project (MATH 470). \emph{Topic}: Foundations of semiparametric theory and missing data.
+  \item[--] Xiao Qi Li. May 2024 -- Aug 2024. Honours research project (MATH 470). \emph{Topic}: Active statistical inference for finite population sampling.
+  \item[--] Simon Savaria. May 2024 -- Aug 2024. Honours research project (MATH 470). \emph{Topic}: Resampling methods for variance estimation.
+  \item[--] Yajun Hui. Sep 2023 -- Dec 2023. Honours research project (MATH 470). \emph{Topic}: Estimator selection for survey data.
+\end{itemize}
+
+\item Visiting graduate students:
+\begin{itemize}
+  \item[--] Enzo Abdallah-Herve, École Normale Supérieure Paris-Saclay. Apr 2024 -- Jul 2024. \emph{Topic}: Covariate shift problems in regression.
+  \item[--] Kalil Bouhadra, École Polytechnique Fédérale de Lausanne (EPFL). Mar 2024 -- May 2024. \emph{Topic}: High-dimensional statistics with survey data.
+\end{itemize}
+\end{itemize}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Presentations at conferences and seminars}
+\vspace{2mm}
+
+\textbf{Plenary conference presentations.}
+\begin{etaremune}
+  \item \underline{Dagdoug, M.} (2025). Estimation of uncertainty. Opening plenary address, \textit{Annual Congress of the German Statistical Society}, Wiesbaden, Germany, 2--5 September 2025.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2023). Model-assisted estimation through random forests in finite population sampling. \textit{12e Colloque International Francophone sur les Sondages}, Aubervilliers, France, 21--24 March 2023.
+\end{etaremune}
+
+\needspace{6\baselineskip}\vspace{1mm}\hrulefill\vspace{1mm}
+
+\textbf{Short courses at conferences.}
+\begin{etaremune}
+  \item \underline{Dagdoug, M.}, \& \underline{Haziza, D.} (2026). Finite-population inference with ML-based predictions. Short course, \textit{2026 Joint Statistical Meetings}, Boston, USA, 1--6 August 2026.
+  \item \underline{Dagdoug, M.}, \& \underline{Haziza, D.} (2026). Finite-population inference with ML-based predictions. Short course, \textit{2026 SSC Annual Meeting}, Hamilton, Canada, 31 May -- 3 June 2026.
+  \item \underline{Dagdoug, M.}, \& \underline{Haziza, D.} (2026). Finite-population inference with ML-based predictions. Short course, \textit{14e Colloque Francophone International sur les Sondages}, Vannes, France, 19--22 May 2026.
+\end{etaremune}
+
+\needspace{6\baselineskip}\vspace{1mm}\hrulefill\vspace{1mm}
+
+\textbf{Invited conference presentations.}
+\begin{etaremune}
+  \item \underline{Dagdoug, M.}, An, Z., Haziza, D., \& Tillé, Y. (2026). Agnostic model-assisted estimation in finite population. \textit{EcoSta 2026}, Kyoto, Japan, 8--10 August 2026.
+  \item \underline{Dagdoug, M.}, \& Haziza, D. (2026). Machine learning for the treatment of nonresponse in surveys. \textit{IVADO 2nd Workshop: Uncertainty in AI}, Montréal, Canada, 8--11 June 2026.
+  \item \underline{Dagdoug, M.}, \& Haziza, D. (2026). Machine learning for the treatment of nonresponse in surveys. \textit{2026 SSC Annual Meeting}, Hamilton, Canada, 31 May -- 3 June 2026.
+  \item \underline{Dagdoug, M.}, \& Haziza, D. (2025). Double machine learning for nonresponse in surveys. \textit{EcoSta 2025}, Tokyo, Japan, 21--23 August 2025.
+  \item \underline{Dagdoug, M.}, \& Haziza, D. (2025). On the use of machine learning methods for the treatment of unit nonresponse in surveys. \textit{2025 Joint Statistical Meetings}, Nashville, USA, 2--7 August 2025.
+  \item \underline{Dagdoug, M.}, \& Haziza, D. (2025). Double machine learning for nonresponse in surveys. \textit{2025 CMS Summer Meeting}, Québec, Canada, 6--9 June 2025.
+  \item \underline{Dagdoug, M.} (2024). High-dimensional variance estimation for model-assisted and imputed estimators. \textit{Bank of Canada Workshop: Understanding and Correcting for Non-response Bias}, Ottawa, Canada, 9 December 2024.
+  \item \underline{Dagdoug, M.} (2024). Variance estimation for survey estimators based on statistical learning models. \textit{CANSSI-CRT Workshop on Modern Methods in Survey Sampling}, Ottawa, Canada, 8--10 July 2024.
+  \item \underline{Dagdoug, M.}, Eustache, E., \& Haziza, D. (2024). High-dimensional variance estimation in survey sampling. \textit{SIS 2024}, Bari, Italy, 17--20 June 2024.
+  \item \underline{Dagdoug, M.}, Eustache, E., \& Haziza, D. (2024). Variance estimation for survey estimators based on statistical learning models. \textit{ICSA-Canada Chapter 2024 Symposium}, Niagara Falls, Canada, 7--9 June 2024.
+  \item \underline{Dagdoug, M.}, Eustache, E., \& Haziza, D. (2024). Variance estimation for survey estimators based on statistical learning procedures. \textit{2024 SSC Annual Meeting}, St.\ John's, Canada, 2--5 June 2024.
+  \item \underline{Dagdoug, M.} (2024). Variance estimation for survey estimators based on statistical learning procedures. \textit{Séminaire en ligne sur les sondages}, France (online), 18 April 2024.
+  \item \underline{Dagdoug, M.}, \& Haziza, D. (2023). Variance estimation for survey estimators based on statistical learning procedures. \textit{16th International Conference of the ERCIM WG on Computational and Methodological Statistics}, Berlin, Germany, 16--18 December 2023.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2022). Analysis of regression tree and random forest imputation in surveys. \textit{Summer School on Modern Methods in Survey Sampling}, Ottawa, Canada, 5--8 July 2022.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2022). Model-assisted estimation through random forests in finite population sampling. \textit{2022 SSC Annual Meeting}, Ottawa, Canada (online), 30 May -- 3 June 2022.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2022). High-dimensional convergence for model-assisted estimators. \textit{ITACOSM 2022}, Perugia, Italy, 8--10 June 2022.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2021). Random forests imputation in surveys. \textit{2021 Joint Statistical Meetings}, Seattle, USA (online), 7--12 August 2021.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2021). Model-assisted estimation through random forests in finite population sampling. \textit{Statistics 2021 Canada}, Montréal, Canada (online), 15--18 July 2021.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2020). Model-assisted estimation through random forests in finite population sampling. \textit{13th International Conference of the ERCIM WG on Computational and Methodological Statistics}, London, England (online), 19--21 December 2020.
+\end{etaremune}
+
+\needspace{6\baselineskip}\vspace{1mm}\hrulefill\vspace{1mm}
+
+\textbf{Contributed conference presentations.}
+\begin{etaremune}
+  \item \underline{Dagdoug, M.}, Eustache, E., \& Haziza, D. (2023). High-dimensional model-assisted estimation for survey data. \textit{2023 SSC Annual Meeting}, Ottawa, Canada, 28--31 May 2023.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2022). Random forests in surveys: from model-assisted estimation to imputation. \textit{Journées de Méthodologie Statistique de l'Insee (JMS 2022)}, Paris, France, 29--31 March 2022.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2021). Random forests imputation in surveys. \textit{Forum des Jeunes Mathématicien·ne·s}, Besançon, France, 8--10 December 2021.
+  \item \underline{Dagdoug, M.}, \underline{Goga, C.}, \& Haziza, D. (2021). Model-assisted estimation through random forests in finite population sampling (presented with Camelia Goga). \textit{11e Colloque International Francophone sur les Sondages}, Brussels, Belgium, 6--8 October 2021.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2021). Random forests imputation in surveys. \textit{11e Colloque International Francophone sur les Sondages}, Brussels, Belgium, 6--8 October 2021.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2021). Convergence rates of model-assisted estimators in high-dimensional settings. \textit{63rd ISI World Statistics Congress}, The Hague, Netherlands (online), 11--16 July 2021.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2021). Model-assisted estimation through random forests in finite population sampling. \textit{Conference in honor of Fred Smith and Chris Skinner}, Southampton, England (online), 7--9 July 2021.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2021). High-dimensional asymptotics for model-assisted estimation. \textit{6e Journée ``Probabilités et statistiques Besançon--Dijon''}, Dijon, France, 5 July 2021.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2021). Model-assisted estimation through random forests in finite population sampling. \textit{2021 SSC Annual Meeting}, Ottawa, Canada (online), 7--11 June 2021.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2021). Model-assisted estimation through random forests in finite population sampling. \textit{52es Journées de Statistique de la Société Française de Statistique}, Nice, France (online), 7--11 June 2021.
+  \item \underline{Dagdoug, M.} (2019). Imputation and calibration reweighting for surveys with missing data. \textit{Sixième Journée des Jeunes Chercheurs en Mathématiques de l'UBFC}, Besançon, France, 12 April 2019.
+\end{etaremune}
+
+\needspace{6\baselineskip}\vspace{1mm}\hrulefill\vspace{1mm}
+
+\textbf{Invited seminars.}
+\begin{etaremune}
+  \item \underline{Dagdoug, M.} (2025). Statistical learning for finite population sampling: some challenges. \textit{Statistics Seminar, University of Winnipeg}, Winnipeg, Canada, 7 March 2025.
+  \item \underline{Dagdoug, M.} (2024). Statistical learning for finite population sampling: some challenges. \textit{Séminaire de Probabilités et Statistique, Université de Franche-Comté}, Besançon, France, 16 December 2024.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2023). Statistical inference in surveys with random forest imputed estimators. \textit{Séminaire de Statistique, Université de Sherbrooke}, Sherbrooke, Canada, 27 November 2023.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2023). Statistical inference in surveys with random forest imputed estimators. \textit{Centre de Recherches Mathématiques (CRM), Applied Mathematics Seminars}, Montréal, Canada, 18 September 2023.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2023). Statistical inference in the presence of imputed survey data through regression trees and random forests. \textit{Bank of Canada}, Ottawa, Canada, 6 June 2023.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2022). Imputation par arbres de régression et forêts aléatoires en théorie des sondages. \textit{Séminaire de l'Institut de Statistique de Neuchâtel}, Neuchâtel, Switzerland, 28 April 2022.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2022). Analysis of regression tree and random forest imputation in surveys. \textit{Séminaire des doctorants du Laboratoire de Mathématiques de Besançon}, Besançon, France, 3 March 2022.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2022). Analysis of regression tree and random forest imputation in surveys. \textit{Séminaire des doctorants de l'Institut de Mathématiques de Bourgogne}, Dijon, France, 24 February 2022.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2020). Model-assisted estimation through random forests in finite population sampling. \textit{Séminaire de l'équipe Probabilités et Statistiques du Laboratoire de Mathématiques de Besançon}, Besançon, France (online), 30 November 2020.
+  \item \underline{Dagdoug, M.}, Goga, C., \& Haziza, D. (2019). Model-assisted estimation through random forests in finite population sampling. \textit{Séminaire des doctorants du Laboratoire de Mathématiques de Besançon}, Besançon, France, December 2019.
+\end{etaremune}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Teaching}
+\vspace{2mm}
+
+\textbf{Current, McGill University (2026--2027).}
+\begin{itemize}
+  \item[--] MATH 598, Topics in Probability and Statistics: \emph{Asymptotic Statistics} \hfill Fall 2026
+  \item[--] MATH 324, \emph{Statistics} \hfill Winter 2027
+  \item[--] MATH 410, Majors projects (2 projects) \hfill Fall 2026
+\end{itemize}
+
+\textbf{Past, McGill University.}
+\begin{itemize}
+  \item[--] MATH 525, \emph{Sampling Theory and Applications} \hfill Winter 2024, Winter 2025, Winter 2026
+  \item[--] MATH 533, \emph{Regression and Analysis of Variance} \hfill Fall 2023, Fall 2024, Fall 2025
+  \item[--] MATH 324, \emph{Statistics} \hfill Winter 2026
+  \item[--] Supervised projects: MATH 470 (5 projects), MATH 480 (1 project), MATH 410 (1 project) \hfill 2023--2025
+\end{itemize}
+
+\textbf{Invited courses, Université de Franche-Comté.}
+\begin{itemize}
+  \item[--] Research course in statistics: \emph{Matrix completion and missing data}, Master 2 (15 hours) \hfill December 2024
+  \item[--] Research course in statistics: \emph{Matrix completion}, Master 2 (15 hours) \hfill December 2022
+\end{itemize}
+
+\textbf{During the Ph.D., Université de Franche-Comté.}
+\begin{itemize}
+  \item[--] \emph{Survey sampling}, Master 2: exercise and coding sessions (12 hours per year), then lectures (18 hours) \hfill 2020--2023
+  \item[--] \emph{Statistical learning}, Master 2: exercise and coding sessions (6 hours) \hfill 2021
+  \item[--] \emph{Python}, Master 2: exercise and coding sessions (6 hours per year) \hfill 2020--2022
+  \item[--] \emph{Object-oriented programming}, Master 1: lectures, exercise and coding sessions (15 hours per year) \hfill 2019--2021
+  \item[--] \emph{Advanced R}, Master 1: lectures and coding sessions (12 hours per year) \hfill 2019--2021
+  \item[--] \emph{Elementary statistics}, Bachelor of Mathematics, 3rd year: coding sessions and final projects (25 hours) \hfill 2022
+  \item[--] \emph{Mathematical tools}, Bachelor of Biology, 1st year: lectures and exercises (40 hours, then 20 hours) \hfill 2019--2021
+\end{itemize}
+
+\textbf{Lecture notes.}
+\begin{itemize}
+  \item[--] \emph{Linear Regression and Analysis of Variance}, McGill University, 302 slides.
+  \item[--] \emph{Survey Sampling Theory}, McGill University, 236 slides.
+\end{itemize}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Research visits}
+\vspace{2mm}
+\begin{itemize}
+  \item[--] Université de Neuchâtel, Neuchâtel, Switzerland, May 2022, two weeks, at the invitation of Professor Yves Tillé.
+\end{itemize}
+\end{rSection}
+
+\begin{rSection}{Administrative responsibilities}
+\vspace{2mm}
+
+\textbf{Current.}
+\begin{itemize}
+  \item[--] Sep 2026 -- present: Committee member, \emph{Committee of Graduate Affairs}, McGill University.
+  \item[--] Jul 2026 -- present: Secretary, \emph{Data Science and Analytics Section}, Statistical Society of Canada.
+  \item[--] Jul 2026 -- present: Member, \emph{Pierre Robillard Award Committee}, Statistical Society of Canada.
+  \item[--] Sep 2025 -- Jun 2028: Member, \emph{New Investigators Committee}, Statistical Society of Canada.
+  \item[--] Jul 2024 -- Jun 2027: Committee member, \emph{Student Travel Grants Committee}, Statistical Society of Canada.
+\end{itemize}
+
+\textbf{Past.}
+\begin{itemize}
+  \item[--] Aug 2023 -- Aug 2026: Committee member, \emph{Committee of Undergraduate Affairs}, McGill University.
+  \item[--] Sep 2025 -- Feb 2026: Committee member, \emph{Statistics Search Committee}, McGill University.
+  \item[--] Oct 2025: Committee member, \emph{Fellowships Evaluation Committee for the 2025 NSERC Canada Graduate Research Scholarships -- Doctoral (CGRS D)}.
+  \item[--] Mar 2025: Committee member, \emph{NSERC CGS Masters Selection Committee 2025--2026}.
+  \item[--] Nov 2024 -- Feb 2025: Evaluation committee member, \emph{FRQNT Ph.D. grants}, category Probability and Statistics.
+  \item[--] Mar 2024: Committee member, \emph{NSERC USRA and SURA Summer Research Awards Ranking Committee}, McGill University.
+  \item[--] Sep 2023 -- Dec 2023: Committee member, \emph{Statistics Search Committee}, McGill University.
+  \item[--] Feb 2021 -- Oct 2022: Elected member, \emph{BFC-Maths Federation}, representing Ph.D. students of the Laboratoire de Mathématiques de Besançon.
+  \item[--] May 2020 -- Oct 2022: Elected member, \emph{Carnot Pasteur Doctoral School}, representing Ph.D. students in mathematics.
+\end{itemize}
+\end{rSection}
+
+\begin{rSection}{Scientific organization}
+\vspace{2mm}
+
+\textbf{Current.}
+\begin{itemize}
+  \item[--] Aug 2023 -- present: Organizer of the \emph{McGill Statistics Seminar}; sole organizer from 2023 to 2026, co-organized with Ameer Dharamshi since 2026--2027 (18 seminars in 2024--2025, 17 in 2023--2024).
+\end{itemize}
+
+\textbf{Past.}
+\begin{itemize}
+  \item[--] Feb 2025 -- May 2026: Member of the scientific committee, \emph{14e Colloque Francophone International sur les Sondages}, Vannes, France.
+  \item[--] 2022: Co-organizer, with Valentin Petit (LmB), of the \emph{Septième Journée des Jeunes Chercheuses et des Jeunes Chercheurs en Mathématiques de l'UBFC} (50 participants).
+  \item[--] 2020--2022: Co-organizer, with Valentin Petit (LmB), of the \emph{Ph.D. seminar} of the Laboratoire de Mathématiques de Besançon (15 seminars in 2020--2021, 14 in 2021--2022).
+  \item[--] 2021: Member of the organizing committee and webmaster, \emph{Forum des Jeunes Mathématicien·ne·s 2021} (3 days, 70 participants). \url{https://jmb2021.sciencesconf.org}.
+\end{itemize}
+\end{rSection}
+
+\begin{rSection}{Refereeing and editorial activities}
+\vspace{2mm}
+
+\textbf{Editorial work.}
+\begin{itemize}
+  \item[--] Sep 2025 -- present: Editor of the ``Early Career Survey Statistician'' section of \emph{The Survey Statistician}.
+\end{itemize}
+
+\textbf{Refereeing for journals.}
+\begin{itemize}
+  \item[--] Canadian Journal of Economics.
+  \item[--] Canadian Journal of Statistics.
+  \item[--] Computational Statistics.
+  \item[--] Electronic Journal of Statistics.
+  \item[--] Journal of Data Science.
+  \item[--] Journal of Official Statistics.
+  \item[--] Journal of Statistical Planning and Inference.
+  \item[--] Journal of Survey Statistics and Methodology.
+  \item[--] Sankhya B.
+  \item[--] Survey Methodology.
+\end{itemize}
+\end{rSection}
+
+\begin{rSection}{Interactions with industry}
+\vspace{2mm}
+\begin{itemize}
+  \item[--] CANSSI Collaborative Research Team with the Bank of Canada and Statistics Canada as supporting industrial and governmental partners.
+  \item[--] Collaboration with the Bank of Canada through a Mitacs project, including the co-supervision (with David Haziza) of one Ph.D. student, one M.Sc. student and one postdoctoral fellow working with the Bank of Canada.
+  \item[--] Collaboration with the French company Médiamétrie during my Ph.D., including the application of the methodology of ``Model-assisted estimation through random forests in finite population sampling'' to real data collected by Médiamétrie.
+  \item[--] Participation in the \textit{Semaine d'Étude Maths-Entreprises} (SEME), Besançon, 2019, with Fabio Coppini (Università di Firenze) and Émile Parolin (INRIA Saclay), for the Centre Georges-François Leclerc (regional cancer center) in Dijon. This work resulted in a Python module and a report, ``First steps in image registration''.
+\end{itemize}
+\end{rSection}
+
+\begin{rSection}{Outreach}
+\vspace{2mm}
+\begin{itemize}
+  \item[--] ``Missing data treatment in surveys'', presentation for \emph{Soup and Science}, Montréal, February 28, 2024.
+  \item[--] ``Treatment of missing data in surveys'', short talk introducing research to undergraduates, \emph{Undergraduate Research Panel}, Montréal, January 22, 2024.
+  \item[--] ``Les sondages : comment ça marche ?'', talk for the final of the \emph{Rallye mathématiques des collégiens}, Dijon, June 2, 2022.
+  \item[--] ``Titanic, entre expédition maritime et promenade en forêts aléatoires'', talk for the final of the \emph{Rallye mathématiques des lycéens}, Dijon, June 2, 2022.
+  \item[--] ``Titanic, entre expédition maritime et promenade en forêts aléatoires'', popularization workshop for the \emph{Journée de la recherche en mathématiques}, Besançon, November 17, 2021.
+\end{itemize}
+\end{rSection}
+
+\end{document}

@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block content %}
+    <header class="page-head">
+      <p class="page-kicker">Research</p>
+      <h1>{{ site.program }}</h1>
+    </header>
+
+    <section class="research-intro" aria-label="Overview">
+      {% for p in site.research_intro %}<p>{{ p | md }}</p>{% endfor %}
+    </section>
+
+    <section aria-labelledby="themes">
+      <h2 class="section-title ruled" id="themes">Research themes</h2>
+      <div class="theme-grid">
+        {% for t in site.research_themes %}
+        <article class="card theme" id="{{ t.topic }}">
+          <h3 class="theme-title">{{ t.title }}</h3>
+          <p class="theme-why">{{ t.why }}</p>
+          <p class="theme-what">{{ t.what }}</p>
+          <p class="theme-papers-title">Related papers</p>
+          <ul class="theme-papers">
+            {% for p in topic_papers[t.topic] %}
+            <li><a href="{{ p | mainlink }}">{{ p.title }}</a> <span class="tyear">({{ p.year }})</span></li>
+            {% endfor %}
+          </ul>
+        </article>
+        {% endfor %}
+      </div>
+    </section>
+{% endblock %}

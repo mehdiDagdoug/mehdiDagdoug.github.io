@@ -1,0 +1,83 @@
+{% extends "base.html" %}
+{% block content %}
+    <section class="hero">
+      <img class="hero-photo" src="{{ site.photo }}" alt="Portrait of {{ site.name }}" width="600" height="900">
+      <div class="hero-text">
+        <h1 class="hero-name">{{ site.name }}</h1>
+        <p class="role">{{ site.role }}</p>
+        <p class="affiliation">{{ site.department }}<br>{{ site.institution }}</p>
+        <ul class="chips">
+          {% for t in site.topics %}<li>{{ t }}</li>{% endfor %}
+        </ul>
+        <p class="lead">{{ site.lead }}</p>
+        <p class="program">This leads me to work on
+          {% for t in site.research_themes %}<a href="research.html#{{ t.topic }}">{{ t.title[0] | lower }}{{ t.title[1:] }}</a>{{ ", " if loop.revindex > 2 else (" and " if loop.revindex == 2 else ".") }}{% endfor %}
+        </p>
+        <p class="contact-line">
+          <a class="email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+          <span class="sep" aria-hidden="true">·</span>
+          <span>{{ site.office }}</span>
+        </p>
+        <p class="actions">
+          <a class="btn btn-primary" href="mailto:{{ site.email }}">Contact</a>
+          <a class="btn" href="research.html">Research</a>
+          <a class="btn" href="publications.html">Publications</a>
+          <a class="btn" href="{{ site.cv | fileurl }}">CV (PDF)</a>
+        </p>
+      </div>
+    </section>
+
+    <section class="info-cards" aria-label="Contact and teaching">
+      <div class="card">
+        <h2 class="card-title">Teaching this year</h2>
+        <ul class="plain">
+          {% for c in teaching.current.courses %}<li>{{ c.code }} · {{ c.title }} <span class="term">({{ c.term }})</span></li>{% endfor %}
+        </ul>
+        <a class="card-more" href="teaching.html">Teaching →</a>
+      </div>
+      <div class="card">
+        <h2 class="card-title">Office &amp; contact</h2>
+        <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+        <p>{{ site.office }}<br>{{ site.address }}</p>
+      </div>
+      <div class="card">
+        <h2 class="card-title">Elsewhere</h2>
+        <ul class="plain">
+          {% for l in site.links %}<li><a href="{{ l.url }}">{{ l.label }}</a></li>{% endfor %}
+        </ul>
+      </div>
+    </section>
+
+    <section class="about">
+      <h2>About</h2>
+      {% for p in site.bio %}<p>{{ p | md }}</p>{% endfor %}
+    </section>
+
+    <section class="two-col">
+      <div>
+        <h2>Recent papers</h2>
+        <ol class="mini-list">
+          {% for p in pubs.articles[:4] %}
+          <li>
+            <a class="mini-title" href="{{ p | mainlink }}">{{ p.title }}</a>
+            <span class="mini-meta">{{ (p | coauthors) + " · " + (p | venue_short) | end_period }}</span>
+          </li>
+          {% endfor %}
+        </ol>
+        <a class="more" href="publications.html">All publications →</a>
+      </div>
+      <div>
+        <h2>Recent talks</h2>
+        <ol class="mini-list talks">
+          {% for t in recent_talks %}
+          <li>
+            <span class="mini-date">{{ t.date | month_year }}</span>
+            <span class="mini-title">{{ t.title }}</span>
+            <span class="mini-meta">{{ t.event | end_period }}</span>
+          </li>
+          {% endfor %}
+        </ol>
+        <a class="more" href="talks.html">All talks →</a>
+      </div>
+    </section>
+{% endblock %}

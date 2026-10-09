@@ -1,2 +1,9 @@
+# Built website (made by build.py, published by GitHub)
 _site/
+__pycache__/
+.DS_Store
 
+# LaTeX build files
+cv/*.aux
+cv/*.log
+cv/*.out
