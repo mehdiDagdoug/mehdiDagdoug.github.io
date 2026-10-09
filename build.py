@@ -157,6 +157,12 @@ def figure(name):
     return Markup((ROOT / "assets" / "fig" / f"{name}.svg").read_text(encoding="utf-8"))
 
 
+def versioned(path):
+    """Address of a file in assets/ with a version tag, so browsers fetch it again when it changes."""
+    digest = hashlib.sha1((ROOT / path).read_bytes()).hexdigest()[:8]
+    return f"{path}?v={digest}"
+
+
 def groupby_year(items):
     return [(year, list(group)) for year, group in groupby(items, key=lambda p: p["year"])]
 
@@ -280,7 +286,7 @@ def main():
                        mainlink=mainlink, person=person,
                        figure=figure, groupby_year=groupby_year, month_year=month_year,
                        slug=slug, join_names=join_names, period=period,
-                       period_open=period_open, end_period=end_period)
+                       period_open=period_open, end_period=end_period, versioned=versioned)
     css_version = hashlib.sha1((ROOT / "assets" / "style.css").read_bytes()).hexdigest()[:8]
     context = dict(css_version=css_version, site=site, pubs=pubs, talks=talks, students=students, recent_talks=recent_talks,
                    teaching=teaching,

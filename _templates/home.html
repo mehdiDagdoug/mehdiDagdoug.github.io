@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block content %}
     <section class="hero">
-      <img class="hero-photo" src="{{ site.photo }}" alt="Portrait of {{ site.name }}" width="600" height="900">
+      <img class="hero-photo" src="{{ site.photo | versioned }}" alt="Portrait of {{ site.name }}" width="600" height="900">
       <div class="hero-text">
         <h1 class="hero-name">{{ site.name }}</h1>
         <p class="role">{{ site.role }}</p>
